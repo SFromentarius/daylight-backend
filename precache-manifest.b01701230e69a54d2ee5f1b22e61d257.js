@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "28a1779ff25ef78c6d6481818548e570",
+    "revision": "454eb9c44e765102a1e253c88fba703a",
     "url": "/daylight-backend/index.html"
   },
   {
-    "revision": "82a5dfae7bcb01c05f49",
+    "revision": "a0746ee19a5da7292f31",
     "url": "/daylight-backend/static/css/main.b977301c.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/daylight-backend/static/js/2.e811ada4.chunk.js"
   },
   {
-    "revision": "82a5dfae7bcb01c05f49",
-    "url": "/daylight-backend/static/js/main.772b7689.chunk.js"
+    "revision": "a0746ee19a5da7292f31",
+    "url": "/daylight-backend/static/js/main.d4924c5f.chunk.js"
   },
   {
     "revision": "05ab91bb6eb0fda80bb8",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/daylight-backend/precache-manifest.b3c835e476c394ba377173d63e479cd7.js"
+  "/daylight-backend/precache-manifest.b01701230e69a54d2ee5f1b22e61d257.js"
 );
 
 self.addEventListener('message', (event) => {

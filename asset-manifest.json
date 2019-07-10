@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/daylight-backend/static/css/main.b977301c.chunk.css",
-    "main.js": "/daylight-backend/static/js/main.772b7689.chunk.js",
-    "main.js.map": "/daylight-backend/static/js/main.772b7689.chunk.js.map",
+    "main.js": "/daylight-backend/static/js/main.d4924c5f.chunk.js",
+    "main.js.map": "/daylight-backend/static/js/main.d4924c5f.chunk.js.map",
     "runtime~main.js": "/daylight-backend/static/js/runtime~main.c8a31558.js",
     "runtime~main.js.map": "/daylight-backend/static/js/runtime~main.c8a31558.js.map",
     "static/js/2.e811ada4.chunk.js": "/daylight-backend/static/js/2.e811ada4.chunk.js",
     "static/js/2.e811ada4.chunk.js.map": "/daylight-backend/static/js/2.e811ada4.chunk.js.map",
     "index.html": "/daylight-backend/index.html",
-    "precache-manifest.b3c835e476c394ba377173d63e479cd7.js": "/daylight-backend/precache-manifest.b3c835e476c394ba377173d63e479cd7.js",
+    "precache-manifest.b01701230e69a54d2ee5f1b22e61d257.js": "/daylight-backend/precache-manifest.b01701230e69a54d2ee5f1b22e61d257.js",
     "service-worker.js": "/daylight-backend/service-worker.js",
     "static/css/main.b977301c.chunk.css.map": "/daylight-backend/static/css/main.b977301c.chunk.css.map"
   }
