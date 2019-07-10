@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/daylight-backend/static/css/main.b977301c.chunk.css",
-    "main.js": "/daylight-backend/static/js/main.35072d0d.chunk.js",
-    "main.js.map": "/daylight-backend/static/js/main.35072d0d.chunk.js.map",
+    "main.js": "/daylight-backend/static/js/main.8c73c6f2.chunk.js",
+    "main.js.map": "/daylight-backend/static/js/main.8c73c6f2.chunk.js.map",
     "runtime~main.js": "/daylight-backend/static/js/runtime~main.c8a31558.js",
     "runtime~main.js.map": "/daylight-backend/static/js/runtime~main.c8a31558.js.map",
-    "static/js/2.7878a58e.chunk.js": "/daylight-backend/static/js/2.7878a58e.chunk.js",
-    "static/js/2.7878a58e.chunk.js.map": "/daylight-backend/static/js/2.7878a58e.chunk.js.map",
+    "static/js/2.37f0535f.chunk.js": "/daylight-backend/static/js/2.37f0535f.chunk.js",
+    "static/js/2.37f0535f.chunk.js.map": "/daylight-backend/static/js/2.37f0535f.chunk.js.map",
     "index.html": "/daylight-backend/index.html",
-    "precache-manifest.4dbc0c1e19578e0752619eee6f286a39.js": "/daylight-backend/precache-manifest.4dbc0c1e19578e0752619eee6f286a39.js",
+    "precache-manifest.3996dedf7b42c0037f706f010f6116fb.js": "/daylight-backend/precache-manifest.3996dedf7b42c0037f706f010f6116fb.js",
     "service-worker.js": "/daylight-backend/service-worker.js",
     "static/css/main.b977301c.chunk.css.map": "/daylight-backend/static/css/main.b977301c.chunk.css.map"
   }
