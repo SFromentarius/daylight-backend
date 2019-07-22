@@ -1,0 +1,187 @@
+{
+  "quizQuestionList": [
+    {
+      "question_id": 1,
+      "question_prequel": "Vous êtes un PMP responsable qui a déjà travaillé pour un client particulier auparavant. Ce client insiste pour que vous preniez un engagement qui supposerait une extension de vos compétences. Le client considère cela comme une opportunité de développement pour vous. Votre réponse la plus appropriée est : ",
+      "feedback": "",
+      "possibilities": [
+        "Décliner la mission",
+        "Informer les parties prenantes appropriées du manque dans vos qualifications afin qu’ils puissent prendre une décision en étant informées",
+        "Accepter la mission et prendre l’engagement de combler ce manque potentiel",
+        "Recommander d’autres ressources pour répondre aux besoins de ce client"
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 2,
+      "question_prequel": "Vous êtes un membre d’une équipe projet et membre du PMI. Votre équipe a le droit d’emmener à la maison le portable du client pour travailler à la maison de temps en temps. Vous notez qu’un autre membre de l’équipe exprime sa colère en jetant le portable de prêt. Ce comportement peut endommager le portable. Le meilleur plan d’action, basé sur votre responsabilité professionnelle est de :",
+      "feedback": "",
+      "possibilities": [
+        "Se confronter à l’individu et lui demander d’arrêter de se comporter comme ceci",
+        "Informer  le chef de projet",
+        "Recueillir l’opinion d’autres membres responsables de l’équipe sur le meilleur plan d’action",
+        "Informer le chef de projet et le client"
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 3,
+      "question_prequel": "Vous êtes un PMP et vous observez que les membres de votre équipe démolissent malicieusement la réputation d’une autre personne. Lorsque vous entrez dan la conversation, ils vous attaquent en retour avec des accusations inventées. Votre meilleure réponse consiste à :",
+      "feedback": "",
+      "possibilities": [
+        "Contre-attaquer afin de leur montrer que vous ne vous laissez pas intimider",
+        "Leur faire remarquer leur comportement mais sans tomber dans les remarques négatives à leur égard",
+        "Avertir l’autorité appropriée du projet",
+        "Reconnaître qu’une culture peut permettre des comportements qui ne seraient pas appropriées dans une autre culture"
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 4,
+      "question_prequel": "Vous êtes un membre du PMI à jour de cotisation. Vous avez travaillé dur pour vous faire une excellente réputation concernant les compétences et l’intégrité. Un membre de l’équipe qui est un PMP vous accuse de comportements contraires à l’éthique, ce qui ne vous ressemble absolument pas. Le PMP insiste pour que vous preniez des actions immédiatement. Votre meilleur réponse serait de :",
+      "feedback": "",
+      "possibilities": [
+        "Aviser le PMP que de fausses accusations peuvent mener à des actions disciplinaires voire judiciaires ",
+        "Remercier le PMP pour ces informations, approfondir vos investigations et réexaminer votre impartialité et objectivité et prendre les actions appropriées",
+        "Avertir votre management des critiques injustes faites par cette personne",
+        "Déterminer les motivations derrière les accusations et prendre les actions appropriées"
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 5,
+      "question_prequel": "Tous les comportements suivants sont des applications correctes du code de déontologie et de conduite professionnelle, sauf :",
+      "feedback": "",
+      "possibilities": [
+        "Éviter d’enterrer les informations",
+        "Partager systématiquement avec tous les mauvaises nouvelles ",
+        "Toujours s’assurer que l’information est précise, fiable et dans les temps",
+        "Prendre seulement des engagements explicites de bonne foi"
+      ],
+      "answers": [false, false, false, true]
+    },
+    {
+      "question_id": 6,
+      "question_prequel": "En travaillant pour le compte d’une éminente société publique, vous découvrez qu’un projet précédent, achevé avec succès, a fait un paiement non autorisé de 50 000 €. Ce paiement n’était pas en cohérence avec la politique établie. Quelle action devriez-vous prendre?",
+      "feedback": "",
+      "possibilities": [
+        "Puisque le projet a été considéré comme réussi, aucune action n’est nécessaire",
+        "Informer votre manager de la situation ",
+        "Analyser la situation plus en détail et, si possible, la couvrir dans les coûts du projet courant",
+        "Établir un compte en T de compensation afin d’équilibrer correctement la comptabilité du projet "
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 7,
+      "question_prequel": "Vous avez été engagé pour gérer un projet. Le coût estimé du projet est 10 000 000€. Le commanditaire du projet a approuvé ce montant. Vos calculs, via la valeur acquise, indique que le projet sera achevé dans les temps et en avance sur le budget de 600 000€. En se basant sur ces calculs, les frais du projet vont décroître. Quelle action devez-vous entreprendre?",
+      "feedback": "",
+      "possibilities": [
+        "Émettre une facture basée sur le montant total du contrat soit 10 000 000€",
+        "Ajouter des tâches pour améliorer le résultat et accroître le coût réel du projet",
+        "Informer les utilisateurs que vous pouvez ajouter des fonctionnalités au projet afin d’utiliser l’intégralité du budget",
+        "Communiquer au commanditaire le résultat de la projection financière"
+      ],
+      "answers": [false, false, false, true]
+    },
+    {
+      "question_id": 8,
+      "question_prequel": "Vous êtes à la moitié d’un projet lorsque vous découvrez qu’une application logicielle majeure vient de sortir. Cette application fournit des fonctionnalités demandées initialement par votre client mais indisponibles lors du démarrage du projet. L’intégration de cette application dans le projet en augmentera le coût ainsi que les délais. Quel est le meilleur plan d’action?",
+      "feedback": "",
+      "possibilities": [
+        "Continuer le projet tel qu’il était planifié ; ce n’est pas dans le contenu du projet",
+        "Prendre en compte l’application, l’intégrer au projet et couper d’autres fonctionnalités que vous estimez de moindre importance ",
+        "Informer votre client de la situation en précisant l’impact de l’intégration de l’application sur le coût du projet et son échéancier ",
+        "Prendre en compte l’application, l’intégrer au projet et faire travailler en heures supplémentaires l’équipe « logiciel » pour respecter l’échéancier"
+      ],
+      "answers": [false, false, true, false]
+    },
+    {
+      "question_id": 9,
+      "question_prequel": "Votre projet fait partie d’un large programme. Dans une réunion de suivi du programme, un autre chef de projet du projet Y rapporte qu’ils sont dans les délais. Un des membres de votre équipe vous a raconté qu’ils étaient en retard parce que votre équipe attend toujours un livrable supposé achevé du projet Y. Que devez-vous faire ?",
+      "feedback": "",
+      "possibilities": [
+        "Attendre votre tour et informer tout le monde dans la réunion de la situation",
+        "Avoir un rendez-vous  avec le chef de projet Y  ",
+        "Avoir une réunion privée avec le responsable de programme et l’informer ",
+        "Appeler le client et l’informer de la situation "
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 10,
+      "question_prequel": "Tout ce qui suit est de la responsabilité du chef de projet, sauf :",
+      "feedback": "",
+      "possibilities": [
+        "Déterminer la légalité des processus et procédures de la société ",
+        "Protéger la confidentialité des informations du client",
+        "S’assurer qu’il n’y a pas de conflit d’intérêt ou d’apparition de conflit d’intérêt",
+        "Fournir des informations précises sur le projet et dans les temps, à toutes les parties prenantes  "
+      ],
+      "answers": [true, false, false, false]
+    }
+  ],
+  "answersList": [2, 2, 2, 2, 4, 2, 4, 3, 2, 1],
+  "configPre": {
+    "chronoButton": false,
+    "quiz_time": 60,
+    "setShuffle": true,
+    "passScore": 85,
+    "showResultConfig": true,
+    "quiz_title": "Quiz Pré-présentiel du chapitre",
+    "quiz_title2": "14-Code de déontologie et de conduite professionnelle",
+    "quiz_id": 14,
+    "quiz_n_questions": 10,
+    "quiz_n_questionsMax": 10,
+    "answers_file_name": "answers_prep_chap14_v1",
+    "question_file_name": "question_prep_chap14_v1",
+    "SubLines": [
+      "Vous venez de terminer le e-learning du chapitre « Code de déontologie et de conduite professionnelle » du Parcours de Préparation à la certification PMP®",
+      "Avant d’assister à votre prochaine journée de formation en présentiel, il est important que vous cherchiez à tester vos connaissances à travers ce quiz de 10 questions sur ce chapitre, sans limite de temps. ",
+      "Vous pourrez refaire ce test autant de fois que vous le désirez. ",
+      "Bon quiz !"
+    ]
+  },
+  "configPost": {
+    "chronoButton": false,
+    "pauseButton": false,
+    "quiz_time": 20,
+    "setShuffle": true,
+    "passScore": 85,
+    "showResultConfig": true,
+    "quiz_title": "Quiz Post-présentiel du chapitre",
+    "quiz_title2": "14-Code de déontologie et de conduite professionnelle",
+    "quiz_id": 114,
+    "quiz_n_questions": 10,
+    "quiz_n_questionsMax": 10,
+    "answers_file_name": "answers_post_chap14_v2",
+    "question_file_name": "question_post_chap14_v2",
+    "SubLines": [
+      "Vous venez de terminer le J7 de Préparation à la certification PMP®",
+      "Après cette septième journée de formation en présentiel, il est important que vous puissiez valider vos connaissances sur le chapitre « Code de déontologie et de conduite professionnelle » à travers ce Quiz de 10 questions sur ce chapitre, sans limite de temps.",
+      "Vous pourrez refaire ce test autant de fois que vous le désirez. Il est important que vous puissiez avoir au moins 8 bonnes réponses sur les 10 questions posées.",
+      "Les boutons de navigation « Questions marquées », « Questions non répondues » et « Liste des questions » vous permettent de vous déplacer au sein de ce quiz.",
+      "Bon quiz !"
+    ]
+  },
+  "config": {
+    "chronoButton": false,
+    "quiz_time": 60,
+    "setShuffle": true,
+    "passScore": 85,
+    "showResultConfig": true,
+    "quiz_title": "Quiz Pré-présentiel du chapitre",
+    "quiz_title2": "14-Code de déontologie et de conduite professionnelle",
+    "quiz_id": 14,
+    "quiz_n_questions": 10,
+    "quiz_n_questionsMax": 10,
+    "answers_file_name": "answers_prep_chap14_v1",
+    "question_file_name": "question_prep_chap14_v1",
+    "SubLines": [
+      "Vous venez de terminer le e-learning du chapitre « Code de déontologie et de conduite professionnelle » du Parcours de Préparation à la certification PMP®",
+      "Avant d’assister à votre prochaine journée de formation en présentiel, il est important que vous cherchiez à tester vos connaissances à travers ce quiz de 10 questions sur ce chapitre, sans limite de temps. ",
+      "Vous pourrez refaire ce test autant de fois que vous le désirez. ",
+      "Bon quiz !"
+    ]
+  }
+}

@@ -1,0 +1,460 @@
+{
+  "quizQuestionList": [
+    {
+      "question_id": 1,
+      "question_prequel": "Le coût de la Qualité comporte tout ce qui suit SAUF :  ",
+      "feedback": "PMBOK® Guide, Page 274",
+      "possibilities": [
+        "Préventions des non-conformités aux exigences",
+        "Evaluation du produit ou du service pour s’assurer de sa conformité aux exigences",
+        "Utilisation des ordinateurs nécessaire sur le projet",
+        "Reprises dues au non-respect de ces exigences"
+      ],
+      "answers": [false, false, true, false]
+    },
+    {
+      "question_id": 2,
+      "question_prequel": "Tout ce qui suit sont des considérations relatives à l’adaptation pour : ",
+      "feedback": "PMBOK® Guide, Page 276, Introduction",
+      "possibilities": [
+        "Respect des normes et des réglementations",
+        "Respect des politiques et audit",
+        "Amélioration continue",
+        "Gestion des Parties Prenantes"
+      ],
+      "answers": [false, false, false, true]
+    },
+    {
+      "question_id": 3,
+      "question_prequel": "__________ est le processus d’audit des exigences Qualité et des résultats des mesures de maîtrise de la Qualité afin de s’assurer que les standards de Qualité et les définitions opérationnelles appropriés sont utilisés : ",
+      "feedback": "PMBOK® Guide, Page 599, section 4.3",
+      "possibilities": [
+        "Plan de Management de la Qualité",
+        "Gérer la Qualité",
+        "Maîtriser la Qualité",
+        "Plan d’Assurance Qualité"
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 4,
+      "question_prequel": "La base de l’amélioration continue est : ",
+      "feedback": "PMBOK® Guide, Page 275",
+      "possibilities": [
+        "Le cycle PDPC, Process Decision Program Chart ",
+        "Le cycle PDCA, Plan Do Check Act, défini par Shewhart et modifié par Deming",
+        "Le cycle Ready-Aim-Fire (RAF) basé sur les résultats  ",
+        "Le cycle CDEF, Conceptualize, Design, Execute, Finish"
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 5,
+      "question_prequel": "Le Plan de Management de la Qualité est un composant du ____________, qui décrit comment la politique Qualité de l’organisation doit être implémentée : ",
+      "feedback": "PMBOK® Guide, Page 286, Section 8.1.3.1",
+      "possibilities": [
+        "Plan de Management de Projet",
+        "Plan de Management du Programme",
+        "Périmètre du projet",
+        "Plan de Management de la Gouvernance"
+      ],
+      "answers": [true, false, false, false]
+    },
+    {
+      "question_id": 6,
+      "question_prequel": "Les données d’entrée de Maîtriser la Qualité comportent les éléments suivants SAUF : ",
+      "feedback": "PMBOK® Guide, Page 300-302, Section 8.3.1 ; et page 298, Figure 8-10.",
+      "possibilities": [
+        "Plan de Management de Projet",
+        "Réseau PERT",
+        "Les Métriques Qualités ",
+        "Les données de performance du Travail  "
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 7,
+      "question_prequel": "Tout ce qui suit sont les bénéfices principaux de satisfaire aux exigences qualité SAUF : ",
+      "feedback": "PMBOK® Guide, Section 8.1.2.3, page 282",
+      "possibilities": [
+        "Une diminution des reprises",
+        "Une plus grande productivité",
+        "Une réduction des demandes de changements",
+        "Une réduction des coûts  "
+      ],
+      "answers": [false, false, true, false]
+    },
+    {
+      "question_id": 8,
+      "question_prequel": "Comprendre, évaluer, définir et gérer les exigences Qualité sont essentiels pour satisfaire : ",
+      "feedback": "PMBOK® Guide, Section 8.3, page 298",
+      "possibilities": [
+        "Aux attentes des clients",
+        "A l’énoncé du périmètre",
+        "Aux cadres supérieurs  ",
+        "Aux exigences fonctionnelles"
+      ],
+      "answers": [true, false, false, false]
+    },
+    {
+      "question_id": 9,
+      "question_prequel": "Qualité et Classe ne sont pas identiques. La distinction fondamentale est : ",
+      "feedback": "PMBOK® Guide, Introduction, page 274",
+      "possibilities": [
+        "Un niveau de qualité qui ne satisfait pas aux exigences de qualité peut ne pas être un problème. Une classe de qualité faible est toujours un problème ",
+        "La qualité, en tant que performance ou résultat livré, est « le degré auquel un ensemble de caractéristiques intrinsèques satisfait à des exigences ». La classe, en tant qu’intention de conception, est une catégorie attribuée aux livrables ayant la même utilisation fonctionnelle, mais des caractéristiques techniques différentes",
+        "Fournir le niveau de qualité requis ne fait pas partie de la responsabilité du chef de projet et de l’équipe projet  ",
+        "Fournir la classe de niveau requis ne fait pas partie de la responsabilité du chef de projet et de l’équipe projet "
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 10,
+      "question_prequel": "La gestion de la qualité comporte les processus pour incorporer la politique de qualité de l’organisation afin de planifier, gérer et maitriser le projet et les exigences de Qualité du produit afin de : ",
+      "feedback": "PMBOK® Guide, Introduction, page 271",
+      "possibilities": [
+        "Satisfaire aux objectifs des Parties Prenantes",
+        "Améliorer la capacité des processus",
+        "Maitriser les produits, les services ou les résultats  ",
+        "Atteindre les standards de Performance pour l’équipe projet"
+      ],
+      "answers": [true, false, false, false]
+    },
+    {
+      "question_id": 11,
+      "question_prequel": "Un diagramme en arête de poisson est : ",
+      "feedback": "8.2.2.4 Représentation des données page 293 ",
+      "possibilities": [
+        "Utilisé pour ordonner les items par fréquence d’occurrence",
+        "Utilisé pour montrer une activité dans le processus ",
+        "La même chose qu’un diagramme de Pareto",
+        "La même chose qu’un diagramme cause-effet"
+      ],
+      "answers": [false, false, false, true]
+    },
+    {
+      "question_id": 12,
+      "question_prequel": "Brainstorming, diagrammes de flux et analyse coût-bénéfice sont des techniques utilisées dans : ",
+      "feedback": "Figure 8-3 outils et techniques du processus Planifier la gestion de la qualité Page 277",
+      "possibilities": [
+        "Tracer un diagramme de contrôle ",
+        "Tracer un diagramme de Pareto",
+        "Tracer un relevé d’observations",
+        "Planifier la gestion de la qualité"
+      ],
+      "answers": [false, false, false, true]
+    },
+    {
+      "question_id": 13,
+      "question_prequel": "En utilisant les informations suivantes - le tableau des mesures, avec une moyenne de 10 et les limites de spécification de 14 et de 6 - que peut-on dire du processus ? ",
+      "feedback": "Le processus est hors de contrôle parce que certaines données sont sur les limites de spécification qui sont nécessaires plus larges que les limites de contrôle Elles sont donc hors des limites de contrôles. Donc B, processus hors de contrôle",
+      "possibilities": [
+        "Le processus est sous contrôle ",
+        "Le processus est hors de contrôle",
+        "Le processus est stabilisé ",
+        "Rien de ce qui précède "
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 14,
+      "question_prequel": "Le tableau suivant présente des mesures qui ont été prises dans un processus industriel : La moyenne est de 10. Supposons une déviation de 2,5. Parmi les propositions suivantes, laquelle est vraie ?",
+      "feedback": "Rule of Seven :  Sept points consécutifs sont au-dessous de la moyenne. En l’occurrence les mesures 3, 4, 5, 6, 7, 8, 9. Donc le processus est hors de contrôle.",
+      "possibilities": [
+        "Le processus est sous contrôle ",
+        "Le processus est hors de contrôle",
+        "La mesure n° 1 est inacceptable et devrait être rejetée ",
+        "Les mesures 1 et 14 devraient être rejetées"
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 15,
+      "question_prequel": "L’échantillonnage par variable se caractérise par : ",
+      "feedback": "Principaux concepts de la gestion de projet page 274 échantillonnage par attributs et échantillonnage par variable ",
+      "possibilities": [
+        "Un degré de conformité",
+        "Le résultat est conforme ou non conforme",
+        "Plage spécifiée de résultats acceptables ",
+        "Seuils limites"
+      ],
+      "answers": [true, false, false, false]
+    },
+    {
+      "question_id": 16,
+      "question_prequel": "Vous êtes chef de projet sur une exploitation minière. Vous venez de découvrir un problème et vous cherchez à en déterminer la cause. Vous cherchez à déterminer quelle variable a le plus d’influence sur le projet en gardant toutes les variables constantes et en les changeant une par une. Vous utilisez : ",
+      "feedback": "PMBOK Page 293. Le but est de trouver statistiquement les variables dépendantes et indépendantes. Donc c’est un diagramme de Corrélation",
+      "possibilities": [
+        "Diagramme en arêtes de poisson ",
+        "Diagramme de Corrélation",
+        "Diagramme d’Ishikawa",
+        "Diagramme de contrôle"
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 17,
+      "question_prequel": "La politique qualité est une intention globale de l’organisation en ce qui concerne la qualité, exprimée par : ",
+      "feedback": "Voir définition page 720 du glossaire. La définition qui en est donnée induit que la politique qualité ne peut être définie que par le top management",
+      "possibilities": [
+        "Les parties prenantes",
+        "Le top management",
+        "L’équipe projet ",
+        "Tout ce qui précède "
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 18,
+      "question_prequel": "Vous êtes un chef de projet impliqué dans la surveillance de résultats de projet spécifiques afin de déterminer leur conformité avec les standards et identifier des voies de suppression des causes de résultats insatisfaisants. Vous cherchez à déterminer si le processus est stable ou s’il a une performance prédictible. La technique recommandée pour cet objectif est : ",
+      "feedback": "8.3.2.5 page 304",
+      "possibilities": [
+        "Relevé d’observation",
+        "Diagramme de flux",
+        "Diagramme de contrôle",
+        "Diagramme de Pareto "
+      ],
+      "answers": [false, false, true, false]
+    },
+    {
+      "question_id": 19,
+      "question_prequel": "Vous passez en revue  le degré auquel les besoins et attentes des parties prenantes ont été déclarés dans les exigences. Vous découvrez que cet élément critique dans le management de la qualité n’a pas été correctement mené à bien. Cette panne dans l’élaboration des exigences qualité complètes peut être évitée grâce à : ",
+      "feedback": "Revenir à la cause originelle, ici l’analyse des parties prenantes, voir définition dans le glossaire page 699",
+      "possibilities": [
+        "Analyse des parties prenantes",
+        "Planification de la qualité",
+        "Assurance qualité",
+        "Précision et exactitude"
+      ],
+      "answers": [true, false, false, false]
+    },
+    {
+      "question_id": 20,
+      "question_prequel": "En tant que PMP, vous connaissez la relation entre inspection et qualité. Quelle est la phrase exprimant le mieux cette relation ? ",
+      "feedback": "Voir page 274, le point sur la prévention",
+      "possibilities": [
+        "Assurer une inspection après la production du produit",
+        "Assurer une inspection continue des produits",
+        "La prévention vaut mieux que l’inspection ",
+        "La qualité doit être inspectée"
+      ],
+      "answers": [false, false, true, false]
+    },
+    {
+      "question_id": 21,
+      "question_prequel": "On appelle l’outil de Maitrise de la qualité employé pour déterminer si les écarts du processus ne dépassent pas les marges acceptables : ",
+      "feedback": "8.3.2.5 page 304",
+      "possibilities": [
+        "Diagramme de contrôle ",
+        "Conformité des attributs",
+        "Diagramme de flux",
+        "Diagramme de Pareto "
+      ],
+      "answers": [true, false, false, false]
+    },
+    {
+      "question_id": 22,
+      "question_prequel": "Les diagrammes de corrélation établissent le tracé de deux variables pour montrer les relations entre ces deux éléments dans les points d’un graphique. Ces deux éléments sont désignés par : ",
+      "feedback": "8.2.2.4 page 293",
+      "possibilities": [
+        "Variables des 80 % et des 20 %",
+        "       Variables cote et temps",
+        "       Variables dépendantes et indépendantes",
+        "       Variables primaires et de regroupement"
+      ],
+      "answers": [false, false, true, false]
+    },
+    {
+      "question_id": 23,
+      "question_prequel": "La sélection et l’examen d’un sous-ensemble de parties de la population totale pour déterminer si elles sont dans l’écart établi par le plan de contrôle qualité sont des exemples de : ",
+      "feedback": "8.3.2.1 page 303",
+      "possibilities": [
+        "Analyse des tendances",
+        "       Échantillonnage statistique",
+        "       Analyse par corrélation ",
+        "       Analyse Pareto"
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 24,
+      "question_prequel": "En tant que responsable de projet, vous êtes chargé de réunir des documents uniques avant publication. Il est important que le nombre d’erreurs dans le document ne dépasse pas des marges acceptables. Quelle est la technique de contrôle qualité qui s’applique le mieux à ce cas ?  ",
+      "feedback": "8.3.2.5 page 304",
+      "possibilities": [
+        "Inspection",
+        "       Diagramme de contrôle",
+        "       Diagrammes de Pareto ",
+        "       Échantillonnage statistique   "
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 25,
+      "question_prequel": "Au moment de déterminer les coûts de production d’un produit ou service du projet selon les normes de qualité pertinentes, quel est le coût qui n’est généralement pas pris en compte ? ",
+      "feedback": "Principaux concepts de la gestion de projet page 274 les composantes du coût de la qualité",
+      "possibilities": [
+        "Coût des opérations",
+        "       Coût de prévention",
+        "       Coût d’évaluation",
+        "       Coût des défaillances"
+      ],
+      "answers": [true, false, false, false]
+    },
+    {
+      "question_id": 26,
+      "question_prequel": "En tant que responsable d’un projet de restauration de voitures anciennes, vous remarquez que les ouvriers de l’équipe ne semblent pas comprendre quel est le degré acceptable de qualité et qu’ils continuent à utiliser une peinture de qualité inférieure à celle indiquée sur le contrat. Ce problème de qualité est très bien illustré par :  ",
+      "feedback": "Tendances et pratiques émergentes en gestion de la qualité du projet sur l’amélioration continue page 275",
+      "possibilities": [
+        "Joseph M. Juran",
+        "       W. Edwards Deming",
+        "       The Kaizen approach",
+        "       Philip B. Crosby"
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 27,
+      "question_prequel": "Laquelle des affirmations suivantes à propos du processus « Gérer la qualité » est vraie ?  ",
+      "feedback": "Figure 8-7 sur les données d’entrée du processus Gérer la qualité page 288",
+      "possibilities": [
+        "Métriques qualité est une donnée d’entrée ",
+        "Audit qualité est une donnée de sortie",
+        "Plan de gestion de la qualité est une donnée de sortie",
+        " Coût de la qualité est une donnée de sortie"
+      ],
+      "answers": [true, false, false, false]
+    },
+    {
+      "question_id": 28,
+      "question_prequel": "En tant que responsable de projet expérimenté de Global Semi Conductive, Inc., vous avez déterminé des normes de planification pour atteindre les objectifs qualité de votre projet. Vous pourriez utiliser les techniques suivantes, à l’exception de :                              ",
+      "feedback": "La question posée fait référence aux outils et techniques du processus Planifier la gestion de la qualité, voir Figure 8-3 page 277",
+      "possibilities": [
+        "Analyse Coût-Bénéfice",
+        "       Brainstorming",
+        "Diagrammes de Pareto",
+        "Planification des Tests et des Inspections"
+      ],
+      "answers": [false, false, true, false]
+    },
+    {
+      "question_id": 29,
+      "question_prequel": "L’analyse décisionnelle multicritère et le diagramme de flux sont des techniques utilisées pour : ",
+      "feedback": "figures 8-3 et 8-7 pages 277 et 288",
+      "possibilities": [
+        "Planifier la qualité ",
+        "Planifier la qualité et Gérer la qualité",
+        "Déterminer les coûts et les compromis dans l’échéancier",
+        "Toutes les activités qualité associées avec la prévention, l’évaluation et l’échec"
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 30,
+      "question_prequel": "Les outils et techniques suivants sont employés dans Planifier la gestion de la qualité, sauf :         ",
+      "feedback": "figures 8-3 page 277",
+      "possibilities": [
+        "Inspections",
+        "       Entretiens",
+        "       Analyse Coût-Bénéfice",
+        "       Modèle Logique de Données"
+      ],
+      "answers": [true, false, false, false]
+    }
+  ],
+  "answersList": [
+    3,
+    4,
+    2,
+    2,
+    1,
+    2,
+    3,
+    1,
+    2,
+    1,
+    4,
+    4,
+    2,
+    2,
+    1,
+    2,
+    2,
+    3,
+    1,
+    3,
+    1,
+    3,
+    2,
+    2,
+    1,
+    2,
+    1,
+    3,
+    2,
+    1
+  ],
+  "configPre": {
+    "chronoButton": false,
+    "quiz_time": 60,
+    "setShuffle": true,
+    "passScore": 85,
+    "showResultConfig": true,
+    "quiz_title": "Quiz Pré-présentiel du chapitre",
+    "quiz_title2": "8-Gestion de la qualité du projet",
+    "quiz_id": 8,
+    "quiz_n_questions": 10,
+    "quiz_n_questionsMax": 30,
+    "answers_file_name": "answers_prep_chap8_v1",
+    "question_file_name": "question_prep_chap8_v1",
+    "SubLines": [
+      "Vous venez de terminer le e-learning du chapitre « Gestion de la qualité du projet » du Parcours de Préparation à la certification PMP® ",
+      "Avant d’assister à votre prochaine journée de formation en présentiel, il est important que vous cherchiez à tester vos connaissances à travers ce quiz de 10 questions sur ce chapitre, sans limite de temps. ",
+      "Vous pourrez refaire ce test autant de fois que vous le désirez. ",
+      "Bon quiz !"
+    ]
+  },
+  "configPost": {
+    "chronoButton": false,
+    "pauseButton": false,
+    "quiz_time": 60,
+    "setShuffle": true,
+    "passScore": 85,
+    "showResultConfig": true,
+    "quiz_title": "Quiz Pré-présentiel du chapitre",
+    "quiz_title2": "8-Gestion de la qualité du projet",
+    "quiz_id": 8,
+    "quiz_n_questions": 20,
+    "quiz_n_questionsMax": 30,
+    "answers_file_name": "answers_prep_chap8_v1",
+    "question_file_name": "question_prep_chap8_v1",
+    "SubLines": [
+      "Vous venez de terminer le J5 du Parcours de Préparation à la certification PMP®",
+      "Après cette  cinquième journée de formation en présentiel, il est important que vous puissiez valider vos connaissances sur le chapitre « Gestion de la qualité du projet »  du parcours à travers ce quiz de 20 questions sur ce chapitre, sans limite de temps.",
+      "Vous pourrez refaire ce test autant de fois que vous le désirez. Il est important que vous puissiez avoir au moins 17 bonnes réponses sur les 20 questions posées.",
+      "Les boutons de navigation « Questions marquées », « Questions non répondues » et « Liste des questions » vous permettent de vous déplacer au sein de ce quiz.",
+      "Bon quiz !"
+    ]
+  },
+  "config": {
+    "chronoButton": false,
+    "pauseButton": false,
+    "quiz_time": 60,
+    "setShuffle": true,
+    "passScore": 85,
+    "showResultConfig": true,
+    "quiz_title": "Quiz Pré-présentiel du chapitre",
+    "quiz_title2": "8-Gestion de la qualité du projet",
+    "quiz_id": 8,
+    "quiz_n_questions": 20,
+    "quiz_n_questionsMax": 30,
+    "answers_file_name": "answers_prep_chap8_v1",
+    "question_file_name": "question_prep_chap8_v1",
+    "SubLines": [
+      "Vous venez de terminer le J5 du Parcours de Préparation à la certification PMP®",
+      "Après cette  cinquième journée de formation en présentiel, il est important que vous puissiez valider vos connaissances sur le chapitre « Gestion de la qualité du projet »  du parcours à travers ce quiz de 20 questions sur ce chapitre, sans limite de temps.",
+      "Vous pourrez refaire ce test autant de fois que vous le désirez. Il est important que vous puissiez avoir au moins 17 bonnes réponses sur les 20 questions posées.",
+      "Les boutons de navigation « Questions marquées », « Questions non répondues » et « Liste des questions » vous permettent de vous déplacer au sein de ce quiz.",
+      "Bon quiz !"
+    ]
+  }
+}

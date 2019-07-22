@@ -1,0 +1,479 @@
+{
+  "quizQuestionList": [
+    {
+      "question_id": 1,
+      "question_prequel": "Considérez l’estimation à 3 points d’une activité avec les caractéristiques suivantes : Optimiste = 6 semaines, Plus Probable = 9 semaines et Pessimiste = 15 semaines. En utilisant une distribution beta et une approche en 3 points, quelle devrait être la valeur attendue de l’activité : ",
+      "feedback": "PMBOK® Guide page 201, Section 6.4.2.4 ",
+      "possibilities": [
+        "9,5 semaines",
+        "10,5 semaines",
+        "11,5 semaines",
+        "8,5 semaines"
+      ],
+      "answers": [true, false, false, false]
+    },
+    {
+      "question_id": 2,
+      "question_prequel": "Le processus de Maitrise de l’échéancier … ",
+      "feedback": "PMBOK® Guide page 222, Section 6.6 ",
+      "possibilities": [
+        "Se concentre sur démarrer le projet plus tôt que planifié afin de diminuer le risque de planification et d’atteindre l’échéancier approuvé",
+        "Consiste à maîtriser l’état du projet, dans le but de mettre à jour l’échéancier du projet et de gérer les changements affectant la référence de base de l’échéancier.",
+        "Est principalement concerné par les activités qui sont sur le chemin critique",
+        "Doit se concentrer principalement sur les activités difficiles à réaliser"
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 3,
+      "question_prequel": "Considérez l’estimation à 3 points d’une activité avec les caractéristiques suivantes : Valeur Attendue = 5 semaines, Optimiste = 4 semaines et Pessimiste = 9 semaines. En utilisant une distribution beta et une approche en 3 points, quelle devrait être la valeur la plus probable de l’activité : ",
+      "feedback": "PMBOK® Guide page 244-245, Section 7.2.2.5 ",
+      "possibilities": [
+        "4 semaines",
+        "4,5 semaines",
+        "5 semaines",
+        "6 semaines"
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 4,
+      "question_prequel": "Une estimation de durée par analogie est : ",
+      "feedback": "PMBOK® Guide page 200, Section 6.4.2.2",
+      "possibilities": [
+        "Utilisé fréquemment pour estimer la durée d’un projet quand on ne dispose que d’une quantité limitée d’information",
+        "Une technique d’estimation Bottom-Up ou Ascendante",
+        "Basée sur plusieurs estimations de durée",
+        "Généralement plus précise que les autres méthodes d’estimations "
+      ],
+      "answers": [true, false, false, false]
+    },
+    {
+      "question_id": 5,
+      "question_prequel": "Considérez l’estimation à 3 points d’une activité : Optimiste = 4 semaines, Plus Probable = 5 semaines et Pessimiste = 9 semaines. En utilisant une distribution beta et une approche en 3 points, calculez la valeur attendue de l’activité : ",
+      "feedback": "PMBOK® Guide page 244-245, Section 7.2.2.5 ",
+      "possibilities": [
+        "4 semaines",
+        "4,5 semaines",
+        "5,5 semaines",
+        "6,5 semaines"
+      ],
+      "answers": [false, false, true, false]
+    },
+    {
+      "question_id": 6,
+      "question_prequel": "Dans un échéancier de projet, les barres du diagramme : ",
+      "feedback": "PMBOK® Guide page 217, Section 6.5.3.2, page 219, figure 6-21 ",
+      "possibilities": [
+        "Montrent l’effort des différentes activités",
+        "Montrent la disponibilité des ressources affectées",
+        "Sont placées en fonction des dates de début et de fin correspondantes des différentes activités",
+        "Montrent la priorité relative des différentes activités"
+      ],
+      "answers": [false, false, true, false]
+    },
+    {
+      "question_id": 7,
+      "question_prequel": "Les données d’entrée de Définir les activités sont : ",
+      "feedback": "PMBOK® Guide page 183-184, Figure 6-5, Section 6.2.1",
+      "possibilities": [
+        "Plan de Gestion de l’échéancier, WBS, Echéancier du projet et diagramme réseau ",
+        "Echéancier du projet, estimation des ressources, rapport d’avancement et demande de changement",
+        "Plan de gestion du périmètre, diagramme réseau, Contraintes et Hypothèse",
+        "Plan de Gestion de l’échéancier, référence de base du périmètre, Facteurs Environnementaux de l’Entreprise & Actifs Organisationnels"
+      ],
+      "answers": [false, false, false, true]
+    },
+    {
+      "question_id": 8,
+      "question_prequel": "Une technique de compression de planification appelée mise en parallèle comporte : ",
+      "feedback": "PMBOK® Guide page 215, Section 6.5.2.6",
+      "possibilities": [
+        "L’utilisation de techniques d’ingénierie industrielle pour améliorer la productivité et terminer le projet plus tôt que planifié",
+        "L’exécution en parallèle, tout au moins sur une partie de leur durée, des activités, ou des phases normalement exécutées en séquence",
+        "Imposer le recours à des heures supplémentaires pour terminer le projet dans le délai ou plus tôt",
+        "Affecter des équipes dédiées aux activités du chemin critique pour atteindre les objectifs de planification du projet"
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 9,
+      "question_prequel": "Une technique de compression de la planification utilisée pour raccourcir la durée de la planification pour un coût incrémental minimum, en ajoutant des ressources est appelée : ",
+      "feedback": "PMBOK® Guide page 215, Section 6.5.2.6",
+      "possibilities": [
+        "Compression des délais",
+        "Program Evaluation and Review Technique (PERT)",
+        "Méthode des antécédents (PDM)",
+        "Mise en Parallèle"
+      ],
+      "answers": [true, false, false, false]
+    },
+    {
+      "question_id": 10,
+      "question_prequel": "La durée d’une activité est affectée par tout ce qui suit, SAUF : ",
+      "feedback": "PMBOK® Guide page 195-196, Section 6.4 ",
+      "possibilities": [
+        "Les besoins estimés en ressource des activités",
+        "Le type de ressource assigné à l’activité",
+        "La disponibilité de la ressource affectée à l’activité",
+        "Le fait d’utiliser la méthode des antécédents pour planifier les activités plutôt que d’utiliser la méthode du chemin critique"
+      ],
+      "answers": [false, false, false, true]
+    },
+    {
+      "question_id": 11,
+      "question_prequel": "La méthode des antécédents est :  ",
+      "feedback": "PMBOK® Guide page 189, Section 6.3.2.1  ",
+      "possibilities": [
+        "Une technique utilisée pour la construction d’un modèle d’échéancier dans lequel les activités sont représentées par des nœuds et sont graphiquement liées par un ou plusieurs liens logiques, pour montrer l’ordre dans lequel les activités devront être effectuées.",
+        "Une méthode qui utilise une approche probabiliste pour planifier les activités du projet",
+        "Une représentation graphique phasée dans le temps qui montre à la fois la durée des activités ainsi que leur dépendance",
+        "Une approche plus précise que la méthode du chemin critique pour planifier lorsqu’il y a des incertitudes fortes sur la durée des activités du projet"
+      ],
+      "answers": [true, false, false, false]
+    },
+    {
+      "question_id": 12,
+      "question_prequel": "Planifications en vagues : ",
+      "feedback": "PMBOK® Guide page 185, Section 6.2.2.3  ",
+      "possibilities": [
+        "Le focus est maintenu sur les objectifs de long terme, permettant aux objectifs de court terme d’être réalisés à travers des vagues d’activités ",
+        "C’est une technique de planification itérative selon laquelle les travaux à réaliser à court-terme sont planifiés en détail, tandis que les travaux à plus long terme le sont de manière plus générale.",
+        "Le travail à réaliser dans le futur est planifié en détail pour les lots de travail qui sont dans les bas niveaux du WBS",
+        "Une vague d’activités détaillées est planifiée durant la planification stratégique afin de s’assurer que les livrables du WBS et les jalons du projet seront bien achevés"
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 13,
+      "question_prequel": "Les activités critiques sont : ",
+      "feedback": "",
+      "possibilities": [
+        "Les activités les plus importantes ",
+        "Les seules activités qui doivent être réalisées pour mener à bien le projet",
+        "Les activités qui doivent être réalisées dans les temps pour mener à bien le projet dans les temps",
+        "Les activités qui possèdent une marge, positive ou négative   "
+      ],
+      "answers": [false, false, true, false]
+    },
+    {
+      "question_id": 14,
+      "question_prequel": "Parmi les éléments suivants, quel élément fait partie des techniques de compression de l’échéancier : ",
+      "feedback": "",
+      "possibilities": [
+        "Mise en parallèle",
+        "Ingénierie de la valeur ",
+        "Méthode CPM ",
+        "Méthode PDM"
+      ],
+      "answers": [true, false, false, false]
+    },
+    {
+      "question_id": 15,
+      "question_prequel": "Les données d’entrée du processus Maîtriser l’échéancier incluent les propositions suivantes, sauf : ",
+      "feedback": "",
+      "possibilities": [
+        "Échéancier du projet ",
+        "Plan de management de projet",
+        "Demande de modification ",
+        "Données de performance d'exécution"
+      ],
+      "answers": [false, false, true, false]
+    },
+    {
+      "question_id": 16,
+      "question_prequel": "L’estimation par analogie, utilisant la durée réelle de projets précédents et similaires pour estimer le projet, est également appelée : ",
+      "feedback": "",
+      "possibilities": [
+        "Estimation ascendante ou Bottom-up",
+        "Estimation paramétrique",
+        "Estimation à trois points ",
+        "Estimation descendante ou Top-down"
+      ],
+      "answers": [false, false, false, true]
+    },
+    {
+      "question_id": 17,
+      "question_prequel": "Vous utilisez la méthode PERT pour estimer la durée de votre lot de travail, composé des activités A et B. Vous recevez les estimations suivantes de la part de votre équipe. A) Optimiste : 3 jours, plus probable : 7 jours et pessimiste : 15 jours. B) Optimiste : 6 jours, plus probable : 6 jours et pessimiste : 12 jours. L’estimation arrondie de votre lot de travail par la méthode PERT est de : ",
+      "feedback": "",
+      "possibilities": ["15 jours", "14 jours", "16 jours", "13 jours"],
+      "answers": [true, false, false, false]
+    },
+    {
+      "question_id": 18,
+      "question_prequel": "Votre projet est en retard par rapport à l’échéancier à cause de problèmes de sous-traitance. Ces problèmes étant réglés, que devriez-vous faire pour coller à nouveau à l’échéancier ? ",
+      "feedback": "",
+      "possibilities": [
+        "Auditer les ressources ",
+        "Ajouter des ressources",
+        "Réaffecter les ressources ",
+        "Compresser l’échéancier"
+      ],
+      "answers": [false, false, false, true]
+    },
+    {
+      "question_id": 19,
+      "question_prequel": "En utilisant le tableau suivant, quelles tâches ont de la marge ? ",
+      "feedback": "",
+      "possibilities": [
+        "Tâches 1 et 3",
+        "Tâches 2 et 4 ",
+        "Tâches 2 et 3",
+        "Tâches 3 et 4"
+      ],
+      "answers": [false, false, true, false]
+    },
+    {
+      "question_id": 20,
+      "question_prequel": "Tout ce qui suit est vrai avec la méthode des antécédents (PDM), SAUF : ",
+      "feedback": "",
+      "possibilities": [
+        "Les flèches représentent les dépendances",
+        "Cette méthode utilise seulement des dépendances Fin-Début",
+        "Les activités sont représentées par les nœuds",
+        "À la fois A et C"
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 21,
+      "question_prequel": "Vous travaillez sur le WBS d’un projet mais vous ne disposez pas d’un contenu de projet suffisamment défini pour décomposer une branche jusqu’au niveau lot de travail. L’outil disponible pour élaborer un échéancier de haut niveau dans ce contexte est : ",
+      "feedback": "",
+      "possibilities": [
+        "Lot de planification ",
+        "Composant de planification",
+        "Centre de planification",
+        "Définition d’activité"
+      ],
+      "answers": [true, false, false, false]
+    },
+    {
+      "question_id": 22,
+      "question_prequel": "En utilisant le tableau suivant, quelles tâches n’ont pas de marge ? ",
+      "feedback": "",
+      "possibilities": [
+        "Tâches 1 et 2",
+        "Tâches 1 et 4 ",
+        "Tâches 2 et 4",
+        "Pas assez d’information pour répondre"
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 23,
+      "question_prequel": "Vous documentez les mesures de performance pour calculer l’écart de délai et l’IPD en vous concentrant sur les lots de travail et les comptes de contrôle. Cette information sera communiquée aux parties prenantes. Le processus sur lequel vous travaillez est : ",
+      "feedback": "",
+      "possibilities": [
+        "Maîtriser les coûts",
+        "Gérer les parties prenantes",
+        "Maîtriser le périmètre",
+        "Maîtriser l’échéancier"
+      ],
+      "answers": [false, false, false, true]
+    },
+    {
+      "question_id": 24,
+      "question_prequel": "Vous élaborez le diagramme réseau pour votre projet de construction. Vous ne pouvez démarrer la coloration du plancher avant que l’entrepreneur n’ait, au moins une heure plus tôt, commencé à poser le plancher. Avec la méthode des antécédents, cette situation se représente ainsi : ",
+      "feedback": "",
+      "possibilities": [
+        "Fin-Début avec une heure de retard",
+        "Fin-Fin avec une heure d’avance",
+        "Début-Début avec une heure de retard",
+        "Début-Fin avec une heure d’avance"
+      ],
+      "answers": [false, false, true, false]
+    },
+    {
+      "question_id": 25,
+      "question_prequel": "Vous planifiez votre prochain projet de développement logiciel. Vous savez que vos développeurs vont écrire le code et le tester unitairement. Ces deux activités doivent se dérouler simultanément. La meilleure représentation avec la méthode des antécédents est : ",
+      "feedback": "",
+      "possibilities": [
+        "Début-Début avec 2 jours de retard",
+        "Fin-Début ",
+        "Début-Fin",
+        "Fin-Fin"
+      ],
+      "answers": [false, false, false, true]
+    },
+    {
+      "question_id": 26,
+      "question_prequel": "Quel est la longueur du chemin critique ? ",
+      "feedback": "",
+      "possibilities": [
+        "12",
+        "14",
+        "9",
+        "Pas assez d’information pour calculer le chemin critique"
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 27,
+      "question_prequel": "En tant que responsable de projet, vous souhaitez influer sur les facteurs modifiant les dates de commencement et de fin des activités sur projet. Le processus clé que vous appliquerez à cette fin est appelé : ",
+      "feedback": "",
+      "possibilities": [
+        "Maîtriser l’échéancier",
+        "Élaborer l’échéancier",
+        "Leçons apprises précédemment",
+        "Mettre en œuvre la Maîtrise intégrée des modifications"
+      ],
+      "answers": [true, false, false, false]
+    },
+    {
+      "question_id": 28,
+      "question_prequel": "Il existe une différence fondamentale entre la méthode du chemin critique (CPM) et la méthode PERT : ",
+      "feedback": "",
+      "possibilities": [
+        "CPM est une technique d’analyse de réseau",
+        "PERT ne prend pas en compte la disponibilité des ressources",
+        "PERT calcule des moyennes pondérées et un écart-type",
+        "CPM prévoit la durée du projet"
+      ],
+      "answers": [false, false, true, false]
+    },
+    {
+      "question_id": 29,
+      "question_prequel": "L’équipe de votre projet est en train de concevoir l’échéancier du projet. Elle emploie les techniques de simulation, de compression et d’analyse PERT. Pour déterminer les dates de commencement et d’achèvement, elle devra souvent envisager les techniques suivantes : ",
+      "feedback": "",
+      "possibilities": [
+        "Hypercube Latin ",
+        "Compression des délais et Exécution accélérée par chevauchement",
+        "Incertitude dans l’estimation des activités",
+        "Estimation de la durée et des ressources"
+      ],
+      "answers": [false, false, false, true]
+    },
+    {
+      "question_id": 30,
+      "question_prequel": "Vous êtes un nouveau responsable de projet, chargé de développer une gamme de galets de curling fabriqués dans un nouveau matériau composite. Pour estimer la durée du projet, vous recourrez aux techniques associées à : ",
+      "feedback": "",
+      "possibilities": [
+        "Jugement d’expert, estimation par analogie, estimations en trois points, analyse de la réserve",
+        "Jugement d’expert, plan comptable, risques, aléas",
+        "Jugement d’expert, estimation par analogie, risques, aléas",
+        "Estimation par analogie, risques, aléas, durées estimées quantitativement"
+      ],
+      "answers": [true, false, false, false]
+    },
+    {
+      "question_id": 31,
+      "question_prequel": "Vous êtes un PMP bien informé des techniques et outils associés au séquencement (découpage) des activités. Vous savez que ce qui suit est faux : ",
+      "feedback": "",
+      "possibilities": [
+        "   La méthode des antécédents emploie la technique des activités sur nœuds",
+        "   La méthode des antécédents permet des activités non séquentielles",
+        "  La méthode des antécédents permet des branches conditionnelles",
+        "  PERT et GERT sont deux techniques différentes"
+      ],
+      "answers": [false, false, true, false]
+    },
+    {
+      "question_id": 32,
+      "question_prequel": "Le résultat de la définition des activités est : ",
+      "feedback": "",
+      "possibilities": [
+        "L’ordre logique des activités",
+        "Sous-ensembles ou fragments identifiés",
+        "Liste d’activités qui seront réalisées au cours du projet",
+        "Un dictionnaire de WBS"
+      ],
+      "answers": [false, false, true, false]
+    }
+  ],
+  "answersList": [
+    1,
+    2,
+    2,
+    1,
+    3,
+    3,
+    4,
+    2,
+    1,
+    4,
+    1,
+    2,
+    3,
+    1,
+    3,
+    4,
+    1,
+    4,
+    3,
+    2,
+    1,
+    2,
+    4,
+    3,
+    4,
+    2,
+    1,
+    3,
+    4,
+    1,
+    3,
+    3
+  ],
+  "configPre": {
+    "chronoButton": false,
+    "quiz_time": 60,
+    "setShuffle": true,
+    "passScore": 85,
+    "showResultConfig": true,
+    "quiz_title": "",
+    "quiz_title2": "",
+    "quiz_id": 6,
+    "quiz_n_questions": 15,
+    "quiz_n_questionsMax": 32,
+    "answers_file_name": "answers_chapitre6_V2_2",
+    "question_file_name": "question_chapitre6_V2_2",
+    "SubLines": [
+      "Vous venez de terminer le e-learning du chapitre « Gestion de l'échéancier du projet » du Parcours de Préparation à la certification PMP® ",
+      "Avant d’assister à votre prochaine journée de formation en présentiel, il est important que vous cherchiez à tester vos connaissances à travers ce quiz de 15 questions sur ce chapitre, sans limite de temps. ",
+      "Vous pourrez refaire ce test autant de fois que vous le désirez. ",
+      "Bon quiz !"
+    ]
+  },
+  "configPost": {
+    "chronoButton": false,
+    "pauseButton": false,
+    "quiz_time": 60,
+    "setShuffle": true,
+    "passScore": 85,
+    "showResultConfig": true,
+    "quiz_title": "Quiz Post-présentiel du chapitre",
+    "quiz_title2": "6-Gestion de l'échéancier du projet",
+    "quiz_id": 106,
+    "quiz_n_questions": 30,
+    "quiz_n_questionsMax": 32,
+    "answers_file_name": "answers_post_chap6_v4",
+    "question_file_name": "question_post_chap6_v4",
+    "SubLines": [
+      "Vous venez de terminer le J4 du Parcours de Préparation à la certification PMP®",
+      "Après cette  quatrième journée de formation en présentiel, il est important que vous puissiez valider vos connaissances sur le chapitre « Gestion de l'échéancier du projet »  du parcours à travers ce quiz de 30 questions sur ce chapitre, sans limite de temps.",
+      "Vous pourrez refaire ce test autant de fois que vous le désirez. Il est important que vous puissiez avoir au moins 25 bonnes réponses sur les 30 questions posées",
+      "Les boutons de navigation « Questions marquées », « Questions non répondues » et « Liste des questions » vous permettent de vous déplacer au sein de ce quiz.",
+      "Bon quiz !"
+    ]
+  },
+  "config": {
+    "chronoButton": false,
+    "quiz_time": 60,
+    "setShuffle": true,
+    "passScore": 85,
+    "showResultConfig": true,
+    "quiz_title": "",
+    "quiz_title2": "",
+    "quiz_id": 6,
+    "quiz_n_questions": 15,
+    "quiz_n_questionsMax": 32,
+    "answers_file_name": "answers_chapitre6_V2_2",
+    "question_file_name": "question_chapitre6_V2_2",
+    "SubLines": [
+      "Vous venez de terminer le e-learning du chapitre « Gestion de l'échéancier du projet » du Parcours de Préparation à la certification PMP® ",
+      "Avant d’assister à votre prochaine journée de formation en présentiel, il est important que vous cherchiez à tester vos connaissances à travers ce quiz de 15 questions sur ce chapitre, sans limite de temps. ",
+      "Vous pourrez refaire ce test autant de fois que vous le désirez. ",
+      "Bon quiz !"
+    ]
+  }
+}

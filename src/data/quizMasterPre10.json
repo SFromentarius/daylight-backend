@@ -1,0 +1,287 @@
+{
+  "quizQuestionList": [
+    {
+      "question_id": 1,
+      "question_prequel": "Vous concevez un plan de management de la communication d’un projet de création d’une bière au miel génétiquement modifié. Vous analysez les exigences en informations de différentes parties prenantes. Cette analyse doit également envisager :  ",
+      "feedback": "PMBOK® Guide, Figure 10-2, page 366",
+      "possibilities": [
+        "Le système de récupération des informations",
+        "Les méthodes et technologies nécessaires à la diffusion de l’information",
+        "L’évaluation des performances",
+        "Les leçons apprises"
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 2,
+      "question_prequel": "Les compétences de communication sont cruciales pour le management de projet. En tant que responsable de projet, vous avez mis en place votre plan de management des communications. Dans ces activités, le(s) processus de projet fondamental(aux) est(sont) : ",
+      "feedback": "PMBOK® Guide, Figure 10-1, page 360",
+      "possibilities": [
+        "Gérer les communications et Maitriser les communications",
+        "Planifier les communications et développer l’équipe de projet",
+        "Rapports d’avancements et identification des parties prenantes ",
+        "Management de la valeur acquise"
+      ],
+      "answers": [true, false, false, false]
+    },
+    {
+      "question_id": 3,
+      "question_prequel": "Vous êtes un chef de projet pour une société développant un produit pour aider à la perte de poids. Vous collectez les données de références et distribuez l’information sur la performance de votre projet. Ce processus inclut  tout ce qui suit, sauf : ",
+      "feedback": "PMBOK® Guide, Processus Gérer les communications Figure     10-5, page 379",
+      "possibilities": [
+        "Réunion de revue du projet",
+        "Affectation de personnel",
+        "Rapport d’avancement",
+        "Prévisions"
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 4,
+      "question_prequel": "Les rapports sur la performance d’exécution peuvent inclure : ",
+      "feedback": "PMBOK® Guide, page 382, section 10.2.1.3",
+      "possibilities": [
+        "Comparaison des performances réelles par rapport aux références de base planifiées dans les rapports d’avancements",
+        "Courbes en S ou tableaux",
+        "Analyse de la valeur acquise",
+        "Tout ce qui précède"
+      ],
+      "answers": [false, false, false, true]
+    },
+    {
+      "question_id": 5,
+      "question_prequel": "Vous cherchez activement à déterminer combien de ressources ont été utilisées pour atteindre les objectifs du projet. Vous documentez les informations du projet à propos du contenu, de l’échéancier, des coûts, de la qualité et des risques. Cette information est élaborée pour une diffusion future aux parties prenantes. Le processus dans lequel vous êtes impliqué est : ",
+      "feedback": "PMBOK® Guide, Figure   10-5, page 379",
+      "possibilities": [
+        "Maîtriser l’échéancier",
+        "Gérer les communications ",
+        "Gérer les parties prenantes",
+        "Distribution de l’information"
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 6,
+      "question_prequel": "Des problèmes non résolus expliquent que le projet soit hors du plan. Les personnes ne travaillent pas en synergie et le projet est sujet à de nombreuses perturbations. Le processus qui n’est probablement pas opérationnel de manière effective est :",
+      "feedback": "PMBOK® Guide, Figure   10-5, page 379",
+      "possibilities": [
+        "Gérer les communications",
+        "Surveillance et maîtrise des risques",
+        "Management des communications",
+        "Diriger l’équipe de projet"
+      ],
+      "answers": [true, false, false, false]
+    },
+    {
+      "question_id": 7,
+      "question_prequel": "Les 5 C sont un concept dont le but est d’améliorer sa communication écrite ou orale. Les éléments suivants font parties des 5C, SAUF : ",
+      "feedback": "PMBOK® Guide, page 362 et 363",
+      "possibilities": ["Correct", "Cohérent", "Conciliant", "Clair"],
+      "answers": [false, false, true, false]
+    },
+    {
+      "question_id": 8,
+      "question_prequel": "Vous êtes le chef de projet d’une équipe de projet pluridisciplinaire et multinationale. Vous révisez un sujet technique pour le ramener  à une idée claire et concise. Vous composez un message dans la langue de vos destinataires en cherchant à tenir compte des aspects culturels afin de mieux relayer cette idée. C’est un : ",
+      "feedback": "PMBOK® Guide, Figure 10-4, page 373, Communication interculturelle",
+      "possibilities": [
+        "Retour d’information",
+        "Encodage",
+        "Décodage",
+        "Envoi"
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 9,
+      "question_prequel": "Vous venez d’ajouter sept nouveaux membres à votre équipe de projet, qui en comptait déjà sept. Combien de nouveaux canaux de communications potentiels ont été ajoutés ? ",
+      "feedback": "Nombre initial : (7x6)/2 = 21 Nouveau Nombre : (14x13)/2 = 91 donc 70 nouveaux canaux",
+      "possibilities": ["21", "42", "91", "70"],
+      "answers": [false, false, false, true]
+    },
+    {
+      "question_id": 10,
+      "question_prequel": "Vous venez d’analyser les besoins en information des parties prenantes et les facteurs de technologie de communication. Vous êtes impliqué dans le processus de management de projet appelé : ",
+      "feedback": "PMBOK® Guide, Figure 10-2, page 366",
+      "possibilities": [
+        "Planifier les communications",
+        "Maitriser les communications ",
+        "Identifier les parties prenantes ",
+        "Management des communications du projet"
+      ],
+      "answers": [true, false, false, false]
+    },
+    {
+      "question_id": 11,
+      "question_prequel": "Le manager du bureau des projet veut évaluer si les communications d’un projet sont bien surveillées et maîtrisées. Il demande alors au chef de projet responsable, de lui fournir un document. De quel document peut-il s’agir ? ",
+      "feedback": "Le domaine de connaissance concerné est celui des communications. Le groupe de processus est celui de la maîtrise. Nous sommes donc sur une des données de sortie du processus de maîtriser les communications. Les informations sur la performance d’exécution ont pour but de comparer les données sur la performance avec le plan pour apporter des actions correctives si cela est nécessaire. Référence : 10.3.3.1 Information sur la performance d’exécution",
+      "possibilities": [
+        "Jugement à dire d’expert",
+        "Plan de gestion des communications",
+        "Registre des parties prenantes",
+        "Informations sur la performance d’exécution"
+      ],
+      "answers": [false, false, false, true]
+    },
+    {
+      "question_id": 12,
+      "question_prequel": "Lors de transmission de message de petit groupe à petit groupe, qui doit s’assurer que le message a été reçu dans son intégralité ? ",
+      "feedback": "L’émetteur porte la responsabilité d’envoyer le message et de confirmer que le message a bien été compris. Le récepteur a pour responsabilité de s’assurer que le message a été reçu dans son intégralité. Référence : 10.1.2.4 Modèles de communication",
+      "possibilities": [
+        "L’émetteur et le récepteur",
+        "L’encodeur",
+        "Le récepteur",
+        "Le groupe le plus important"
+      ],
+      "answers": [false, false, true, false]
+    },
+    {
+      "question_id": 13,
+      "question_prequel": "Vous menez un projet de construction d’une librairie publique dans lequel les deux parties prenantes sont en perpétuel conflit sur en autres la localisation et le design du bâtiment. En tant que chef de projet, vous avez déjà passé beaucoup de temps à tenter de résoudre ce conflit, mais rien n’y fait. Que devez-vous faire maintenant ? ",
+      "feedback": "La meilleure chose à faire est d’escalader le problème puisque vous n’y parvenez pas à votre niveau actuel. Le processus d’escalade est décrit dans le plan de gestion de la communication. Référence : 10.1.3.1 Plan de gestion de la communication",
+      "possibilities": [
+        "Se référer à la charte du projet pour exécuter le processus d'escalade.",
+        "Se référer au plan de gestion de la communication pour exécuter le processus d'escalade.",
+        "Impliquer encore plus l'équipe projet pour résoudre ce conflit.",
+        "Impliquer le sponsor du projet pour résoudre ce conflit."
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 14,
+      "question_prequel": "Dans quelle circonstance est-il préférable d’utiliser une communication formelle avec votre client ? ",
+      "feedback": "La meilleure proposition est « Un travail additionnel non prévu au contrat » puisqu’elle indique clairement l’existence d’un contrat et donc un client externe dont vous êtes le fournisseur. Dans ce cas, il est impératif d’utiliser une communication formelle. Dans les autres cas, une communication écrite et formelle semble préférable mais pas obligatoire suivant le contexte du projet. Référence : 12 gestion des approvisionnements du projet",
+      "possibilities": [
+        "Un travail additionnel non prévu au contrat",
+        "Un surcout détecté sur votre projet",
+        "Une constatation de défauts",
+        "Un changement du chemin critique"
+      ],
+      "answers": [true, false, false, false]
+    },
+    {
+      "question_id": 15,
+      "question_prequel": "Vous êtes en charge d’un projet de télécommunication. Dans ce projet, une équipe est responsable de l’installation des équipements et l’autre du test et de la mise en service de la ligne. Les deux équipes travaillent en parallèles, dès que la première équipe termine une installation sur un site, elle se déplace sur un second pour une autre installation. Ceci permet à l’autre équipe de démarrer leurs activités sur le site nouvellement installé. Les équipes sont composées de cinq ingénieurs en plus d’un responsable d’équipe chacune. A l’intérieur de chaque équipes tous les membres communiquent entre eux. Par contre, seulement les deux responsables d’équipe communiquent entre eux pour synchroniser leurs opérations. Ces deux responsables vous reportent également directement. Combien de canaux de communications existe-t-il dans votre projet ? ",
+      "feedback": "Chaque équipe est composé de 5 ingénieurs et un responsable d’équipe. Il existe donc à l’intérieur d’une équipe (6(6-1))/2 = 15 canaux. Comme il y a deux équipes indépendantes, nous avons 152 = 30 canaux. Comme les deux responsables d’équipe vous reportent et communiquent entre eux, il y a donc un nouveau système à 3, donc (3(3-1))/ 2 = 3. Donc 30 + 3 = 33 Référence : 10.1.2.2 Analyse des exigences en communications",
+      "possibilities": ["23", "42", "33", "78"],
+      "answers": [false, false, true, false]
+    },
+    {
+      "question_id": 16,
+      "question_prequel": "Vous êtes le chef d’un projet qui comprend trois membres d’équipe. Un des membres ne peut plus travailler à temps complet sur le projet et un nouveau membre va travailler à temps partiel sur le projet. De combien le nombre de canaux de communication va augmenter ? ",
+      "feedback": "Le nombre de canaux de communication est donné par la formule : n (n -1) / 2. Initialement il y a 3 membres d’équipe plus vous le chef de projet, soit 4. Un nouveau membre vient s’ajouter à l’équipe (Peu importe que ce soit à temps partiel ou à temps complet). ((5×4)/2) – ((4×3)/2) = 10 – 6 = 4. Référence : 10.1.2.2 Analyse des exigences en communications",
+      "possibilities": ["10", "6", "3", "4"],
+      "answers": [false, false, false, true]
+    },
+    {
+      "question_id": 17,
+      "question_prequel": "Quelle est la différence entre les compétences en communication et la gestion des communications ? ",
+      "feedback": "Référence : 10.2 Gérer les communications",
+      "possibilities": [
+        "Les compétences en communications sont un sous-ensemble de la gestion des communications",
+        "Il n'y pas de différence",
+        "Le management des communications est un plan tandis que les compétences en communication sont des techniques",
+        "Les compétences en communications sont définies par le plan de gestion des communications"
+      ],
+      "answers": [false, false, true, false]
+    },
+    {
+      "question_id": 18,
+      "question_prequel": "Lors d’une conversation de personne à personne, que doit faire l’émetteur pour réussir une communication ? ",
+      "feedback": "L’accusé de réception du récepteur ne signifie que le message a été compris et correctement interprété. Certains obstacles ou bruits de communication sont difficilement maîtrisables comme la culture, la personnalité ou les préjugés…Assurer que l’information a été complètement reçu est de la responsabilité du récepteur. Référence : 10.1.2.4 Modèles de communication",
+      "possibilities": [
+        "Transmettre l'information sans bruits",
+        "S'assurer que l'information a été totalement reçue par le récepteur",
+        "Demander au récepteur de reformuler l'information",
+        "Attendre l'accusé de réception du récepteur"
+      ],
+      "answers": [false, false, true, false]
+    },
+    {
+      "question_id": 19,
+      "question_prequel": "Le chef de projet et son équipe passe beaucoup de temps en réunion. Le chef de projet décide alors d’en annuler certaines. Laquelle de ces propositions est une mauvaise raison d’annuler une réunion ? ",
+      "feedback": "Le chef de projet doit proposer au responsable fonctionnel d’effectuer la réunion à un autre horaire. En effet le responsable fonctionnel ou hiérarchique doit permettre de donner la priorité au travail du projet. Référence : 3.3.3 L’organisation",
+      "possibilities": [
+        "Un membre clés de l'équipe projet doit se rendre à une autre réunion.",
+        "Le responsable fonctionnel veut rencontrer le chef de projet au même moment.",
+        "L'ordre du jour de la réunion n'a pas été communiqué avant la réunion.",
+        "Le sujet de la réunion à partiellement changé et la présentation n'est plus totalement à jour."
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 20,
+      "question_prequel": "Les propositions suivantes sont toutes des outils ou techniques du processus Gérer les communications sauf une, laquelle ? ",
+      "feedback": "Référence : 10.2 Gérer les communications",
+      "possibilities": [
+        "Méthodes de communication",
+        "Ecoute active",
+        "Système d'information de gestion de projet",
+        "Analyse des exigences en communications"
+      ],
+      "answers": [false, false, false, true]
+    }
+  ],
+  "answersList": [2, 1, 2, 4, 2, 1, 3, 2, 4, 1, 4, 3, 2, 1, 3, 4, 3, 3, 2, 4],
+  "configPre": {
+    "chronoButton": false,
+    "quiz_time": 60,
+    "setShuffle": true,
+    "passScore": 85,
+    "showResultConfig": true,
+    "quiz_title": "",
+    "quiz_title2": "",
+    "quiz_id": 10,
+    "quiz_n_questions": 10,
+    "quiz_n_questionsMax": 20,
+    "answers_file_name": "answers_pre_chap10_V3",
+    "question_file_name": "question_pre_chap10_V3",
+    "SubLines": [
+      "Vous venez de terminer le e-learning du chapitre « Gestion des communications » du Parcours de Préparation à la certification PMP®",
+      "Avant d’assister à votre prochaine journée de formation en présentiel, il est important que vous cherchiez à tester vos connaissances à travers ce quiz de 10 questions sur ce chapitre, sans limite de temps. ",
+      "Vous pourrez refaire ce test autant de fois que vous le désirez. ",
+      "Bon quiz !"
+    ]
+  },
+  "configPost": {
+    "chronoButton": false,
+    "pauseButton": false,
+    "quiz_time": 60,
+    "setShuffle": true,
+    "passScore": 85,
+    "showResultConfig": true,
+    "quiz_title": "",
+    "quiz_title2": "",
+    "quiz_id": 110,
+    "quiz_n_questions": 20,
+    "quiz_n_questionsMax": 20,
+    "answers_file_name": "answers_post_chap10_V3",
+    "question_file_name": "question_post_chap10_V3",
+    "SubLines": [
+      "Vous venez de terminer le J5 du Parcours de Préparation à la certification PMP®",
+      "Après cette  cinquième journée de formation en présentiel, il est important que vous puissiez valider vos connaissances sur le chapitre « Gestion des communications »  du parcours à travers ce quiz de 20 questions sur ce chapitre, sans limite de temps.",
+      "Vous pourrez refaire ce test autant de fois que vous le désirez. Il est important que vous puissiez avoir au moins 17 bonnes réponses sur les 20 questions posées.",
+      "Les boutons de navigation « Questions marquées », « Questions non répondues » et « Liste des questions » vous permettent de vous déplacer au sein de ce quiz.",
+      "Bon quiz !"
+    ]
+  },
+  "config": {
+    "chronoButton": false,
+    "quiz_time": 60,
+    "setShuffle": true,
+    "passScore": 85,
+    "showResultConfig": true,
+    "quiz_title": "",
+    "quiz_title2": "",
+    "quiz_id": 10,
+    "quiz_n_questions": 10,
+    "quiz_n_questionsMax": 20,
+    "answers_file_name": "answers_pre_chap10_V3",
+    "question_file_name": "question_pre_chap10_V3",
+    "SubLines": [
+      "Vous venez de terminer le e-learning du chapitre « Gestion des communications » du Parcours de Préparation à la certification PMP®",
+      "Avant d’assister à votre prochaine journée de formation en présentiel, il est important que vous cherchiez à tester vos connaissances à travers ce quiz de 10 questions sur ce chapitre, sans limite de temps. ",
+      "Vous pourrez refaire ce test autant de fois que vous le désirez. ",
+      "Bon quiz !"
+    ]
+  }
+}

@@ -1,0 +1,613 @@
+{
+  "quizQuestionList": [
+    {
+      "question_id": 1,
+      "question_prequel": "Votre entreprise fabrique du mobilier de cuisine et va lancer sur le marché un nouveau produit innovant, bien qu’employant les méthodes de fabrication existantes. Laquelle des affirmations suivantes est vraie ?",
+      "feedback": "Le lancement de cette gamme doit se gérer comme un projet, par la suite il s’agira d’opérations récurrentes, comme pour les autres gammes de produit",
+      "possibilities": [
+        "Ce n’est ni un projet ni une opération en cours, mais deviendra une opération en cours après sa mise en œuvre.",
+        "Le lancement de cette nouvelle gamme de produits répond à la définition d’un projet.",
+        "Il s’agit d’une opération en cours, parce qu’elle emploie les mêmes méthodes de fabrication.",
+        "Il s’agit d’une opération en cours, équivalente à une gamme de produits existants."
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 2,
+      "question_prequel": "Vous êtes chargé de modifier les indications de la fonction d’aide en ligne d’une application logicielle standard de votre entreprise. L’indication a trait à la procédure de téléchargement des fichiers. C’est un exemple de :",
+      "feedback": "On comprend dans l’énoncé qu’il s’agit d’une opération de maintenance d’une application déjà en production. Ce n’est plus une activité liée au projet",
+      "possibilities": [
+        "Exécution du projet ",
+        "Démarrage du projet",
+        "Opérations",
+        "Contrôle du projet"
+      ],
+      "answers": [false, false, true, false]
+    },
+    {
+      "question_id": 3,
+      "question_prequel": "Votre direction vous demande de déterminer les caractéristiques et fonctions d’un projet de nouvelle ligne d’aliments diététiques. Ces produits seront proposés à la vente à partir du début de votre prochaine année budgétaire. Pour déterminer ces caractéristiques, vous aurez recours à :",
+      "feedback": "L’élaboration progressive est une notion très importante dans le management de projet. Ainsi les caractéristiques du projet seront définies à travers une élaboration progressive. Tout n’est pas connu dès le début du projet. ",
+      "possibilities": [
+        "Consultation des parties prenantes ",
+        "Management de la valeur acquise",
+        "Suivi rapide",
+        "Élaboration progressive"
+      ],
+      "answers": [false, false, false, true]
+    },
+    {
+      "question_id": 4,
+      "question_prequel": "Une des raisons essentielles d’obtenir la certification PMP est que :",
+      "feedback": "La certification PMP permet, à la fois, de valider et d’augmenter votre expérience et vos connaissances en management projet ainsi que votre professionnalisme et votre intégrité",
+      "possibilities": [
+        "Les clients apprécieront votre expérience, vos connaissances, votre professionnalisme et votre intégrité",
+        "Tous s’inclineront devant votre avis",
+        "Les parties prenantes respecteront toujours votre attitude tournée vers la réalisation de vos objectifs",
+        "Les employeurs vous proposeront une promotion"
+      ],
+      "answers": [true, false, false, false]
+    },
+    {
+      "question_id": 5,
+      "question_prequel": "Le corpus des connaissances en management de projet décrit :",
+      "feedback": "Le corpus de connaissance … ",
+      "possibilities": [
+        "Les pratiques de management de projet généralement acceptées",
+        "Les fondements nécessaires pour obtenir la certification PMP",
+        "Des techniques qui s’appliquent à la plupart des projets",
+        "L’ensemble des connaissances de la profession de manager de projet"
+      ],
+      "answers": [false, false, false, true]
+    },
+    {
+      "question_id": 6,
+      "question_prequel": "Vous êtes un chef de projet expérimenté, spécialisé en ingénierie logicielle. Vous êtes chargé du management d’un projet de construction d’une nouvelle maison pour un client. Vous le dirigerez probablement avec succès parce que :",
+      "feedback": "Une excellente communication est la compétence indispensable pour diriger vos projets avec succès. En conséquence l’option C est meilleure que l’option B.",
+      "possibilities": [
+        "Votre expérience technique vous aidera à comprendre et mettre en relation les spécifications techniques du nouveau projet",
+        "Vos compétences reconnues d’organisateur pourront s’appliquer au nouveau projet",
+        "Vos grandes capacités de communication vous aideront à apprendre d’autrui et à donner des orientations claires",
+        "Vous serez ouvert et n’apporterez pas d’idées préconçues au projet"
+      ],
+      "answers": [false, false, true, false]
+    },
+    {
+      "question_id": 7,
+      "question_prequel": "Vous êtes chargé de vérifier que les différents éléments d’un projet de construction d’aéroport sont correctement coordonnés. Vous devez évaluer les compromis entre une réutilisation des installations existantes et une construction ex nihilo. Quel est le domaine de connaissance en management de projet qui vous aidera le plus à répondre ou dépasser les attentes des parties prenantes ?",
+      "feedback": "L’intégration du projet consiste à ….",
+      "possibilities": [
+        "Personnalisation des interactions de processus",
+        "Management de l’intégration du projet",
+        "Management des coûts du projet",
+        "Leadership du projet"
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 8,
+      "question_prequel": "On vous demande d’analyser les difficultés d’un projet et de distinguer les causes des symptômes. La prochaine étape de résolution du problème consistera à :",
+      "feedback": "Suite à l’identification des causes des problèmes, vous devez identifier les options possibles. Les autres options viennent après",
+      "possibilities": [
+        "Identifier des solutions alternatives viables",
+        "Prendre une décision sur la mesure correcte à prendre",
+        "Employer vos compétences pour influer sur la résistance tactique",
+        "Évaluer la durabilité sociale, économique et environnementale de chaque option"
+      ],
+      "answers": [true, false, false, false]
+    },
+    {
+      "question_id": 9,
+      "question_prequel": "Quelle serait la meilleure définition des processus ?",
+      "feedback": "La définition d’un processus est : …",
+      "possibilities": [
+        "Actions décrivant, réalisant et organisant les tâches du projet",
+        "Séries d’actions interdépendantes conduisant à un résultat ",
+        "Activités spécifiant et créant le produit du projet",
+        "Activités convenant aux projets dans la plupart des cas"
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 10,
+      "question_prequel": "Citez une différence significative entre norme et réglementation :",
+      "feedback": "Une réglementation s’impose à tout un domaine particulier …",
+      "possibilities": [
+        "Une norme est un document approuvé par un organisme reconnu",
+        "Il est obligatoire de se conformer aux normes",
+        "Les normes peuvent devenir des règlements de facto",
+        "Il est obligatoire de se conformer à une réglementation"
+      ],
+      "answers": [false, false, false, true]
+    },
+    {
+      "question_id": 11,
+      "question_prequel": "Le management de projet applique des connaissances, des compétences, des outils et des techniques, afin de :",
+      "feedback": "La réponse B est plus globale et intègre les autres réponses",
+      "possibilities": [
+        "Identifier les différences dans les besoins et les attentes des parties prenantes",
+        "Répondre aux exigences du projet",
+        "Développer le projet pas à pas",
+        "Rencontrer les parties prenantes dans des séries descendantes d’entretiens"
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 12,
+      "question_prequel": "Pour s’assurer que le projet contient effectivement le travail que vous devez accomplir, vous devez examiner cinq processus clés. Parmi les processus suivants, lequel n’en fait pas partie ?",
+      "feedback": "Le domaine de connaissance en charge du travail du projet est la gestion du périmètre du projet. La création du WBS, la Planification du périmètre ainsi que la Maîtrise du périmètre appartiennent tous les trois à ce domaine de connaissance.",
+      "possibilities": [
+        "Création du WBS",
+        "Contrôle des coûts",
+        "Planification du contenu",
+        "Contrôle des modifications de contenu"
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 13,
+      "question_prequel": "On vous demande d’évaluer les performances individuelles des membres de l’équipe du projet et de faire des recommandations sur leur réaffectation après la fin du projet. Quelle serait la réponse la plus appropriée à cette requête ?",
+      "feedback": "Le domaine de connaissance en charge du travail du projet est la gestion du périmètre du projet. La création du WBS, la Planification du périmètre ainsi que la Maîtrise du périmètre appartiennent tous les trois à ce domaine de connaissance.",
+      "possibilities": [
+        "Indiquer qu’il ne s’agit pas d’une demande normale de management de projet, mais que vous voulez bien discuter de la requête",
+        "Accepter, parce que vous êtes prêt à coopérer, disposez de temps libre et souhaitez répondre aux demandes des parties prenantes",
+        "Indiquer que la requête n’entre pas dans le contenu du projet, mais que si nécessaire, elle peut être prise en considération par une demande de modification",
+        "Notez qu’il s’agit d’une partie facultative des fonctions du responsable de projet et négocier son introduction dans la planification de l’organisation"
+      ],
+      "answers": [false, false, false, true]
+    },
+    {
+      "question_id": 14,
+      "question_prequel": "Le jour de l’examen, on vous pose une question qui vous semble sans aucun rapport avec le sujet. Quelle devrait être votre première attitude ?",
+      "feedback": "",
+      "possibilities": [
+        "Noter la question et signaler au PMI que ce type de questions est injuste",
+        "Rester calme, examiner toutes les réponses, faire appel à votre expérience et vos connaissances, utiliser les techniques de diagnostic de questions pour choisir la bonne réponse.",
+        "Appliquer une analyse psychométrique pour déterminer les paramètres de conception de la question et les décoder pour choisir la meilleure réponse",
+        "Ne jamais se montrer déçu, faire un choix et continuer."
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 15,
+      "question_prequel": "Quel est l’ordre des cinq groupes de processus ?",
+      "feedback": "",
+      "possibilities": [
+        "Démarrage, Planification, Exécution, Contrôle, Clôture",
+        "Démarrage, Planification, Réalisation, Contrôle, Clôture",
+        "Planification, Démarrage, Surveillance et Maîtrise, Exécution, Clôture",
+        "Démarrage, Planification, Exécution, Maîtrise, Clôture"
+      ],
+      "answers": [false, false, false, true]
+    },
+    {
+      "question_id": 16,
+      "question_prequel": "La production tangible et vérifiable d’un travail, d’un résultat, d’un service ou d’une capacité est connue comme : ",
+      "feedback": "Un Livrable est …",
+      "possibilities": [
+        "   Comptes de contrôle",
+        "   Listes d’activités",
+        "    Métriques",
+        "   Livrables"
+      ],
+      "answers": [false, false, false, true]
+    },
+    {
+      "question_id": 17,
+      "question_prequel": "Le cycle de Shewhart amélioré, utilisé par le PMI pour définir les groupes de processus, comporte au moins les deux items suivants, lesquels ?",
+      "feedback": "",
+      "possibilities": [
+        "Planifier, Contrôler",
+        "Initialiser, Clore",
+        "Planification, Dérouler",
+        "Vérifier, Agir"
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 18,
+      "question_prequel": "Parmi les éléments suivants, lequel n’est pas un domaine de connaissance du management de projet :",
+      "feedback": "",
+      "possibilities": [
+        "Management des délais du projet",
+        "Management de la fonctionnalité du projet",
+        "Management des coûts du projet",
+        "Management des approvisionnements du projet"
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 19,
+      "question_prequel": "Les pratiques généralement reconnues, identifiées dans le Guide PMBOK ne sont pas :",
+      "feedback": "le PMBOK explique que ses pratiques doivent être adaptés",
+      "possibilities": [
+        "Uniformément appliquées sur tous les projets",
+        "Applicables à la plupart des projets, la plupart du temps",
+        "Supportées par un consensus général dans leur utilité",
+        "Des compétences, outils et techniques qui peuvent augmenter les chances de succès des projets "
+      ],
+      "answers": [true, false, false, false]
+    },
+    {
+      "question_id": 20,
+      "question_prequel": "L’unicité est une caractéristique des livrables d’un projet. Une autre manière de décrire ce caractère unique des livrables produit par un projet est :",
+      "feedback": "Le PMI décrit un projet comme une entreprise temporaire",
+      "possibilities": [
+        "Services, résultats ou processus",
+        "Produits, programmes ou portefeuilles",
+        "Personnes, processus ou produits",
+        "Produits, services ou résultats"
+      ],
+      "answers": [false, false, false, true]
+    },
+    {
+      "question_id": 21,
+      "question_prequel": "Un projet doit être terminé lorsqu’un des événements suivants se produit, sauf si :",
+      "feedback": "La réduction du budget d’un projet peut entrainer des changements majeurs sur le projet en fonction de l’ampleur de la réduction mais n’entraine généralement pas l’arrêt du projet.",
+      "possibilities": [
+        "Les objectifs du projet ne pourront pas être atteints",
+        "Son budget a été réduit",
+        "Ses objectifs sont atteints",
+        "Le besoin pour lequel le projet a été lancé n’existe plus"
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 22,
+      "question_prequel": "Manager un projet intègre la pondération des contraintes concurrentes de contenu, qualité, délai, budget, ressources et risques. Si l’échéancier est raccourci et qu’une augmentation du budget est impossible :  ",
+      "feedback": "A budget constant, si les délais sont plus courts, alors il faut réduire le périmètre du projet sans dégrader la qualité",
+      "possibilities": [
+        "Tous les processus devront être examinés afin de voir ceux que l’on peut supprimer",
+        "La qualité devra être augmentée pour livrer un produit au même budget, dans les délais",
+        "Le commanditaire du projet doit être informé que le projet va être annulé",
+        "Le contenu doit être réduit afin de délivrer un produit au même budget en moins de temps"
+      ],
+      "answers": [false, false, false, true]
+    },
+    {
+      "question_id": 23,
+      "question_prequel": "Vous managez un groupe de projets qui partagent plusieurs ressources et sont commissionnés pour le même client. Cela est un exemple de :",
+      "feedback": "La définition d’un portefeuille est …",
+      "possibilities": [
+        "Opération",
+        "Portefeuille de projet",
+        "Programme ",
+        "Programme de niveau inférieur"
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 24,
+      "question_prequel": "Toutes ces propositions sont des projets sauf une, laquelle ?",
+      "feedback": "Référence : 1.2.1",
+      "possibilities": [
+        "Manager mon service",
+        "Créer un logiciel commercial",
+        "Construire un bâtiment",
+        "Concevoir un nouveau produit"
+      ],
+      "answers": [true, false, false, false]
+    },
+    {
+      "question_id": 25,
+      "question_prequel": "Parmi les propositions suivantes, quelles est la définition d’un projet donnée par le PMBOK ?",
+      "feedback": "Référence : 1.2.1",
+      "possibilities": [
+        "Un projet est une initiative temporaire entreprise dans le but de créer un produit, un service ou un résultat unique",
+        "Un projet délivre un résultat spécifique",
+        "Un projet est une démarche structurante encadrée par un chef de projet",
+        "Un projet permet de planifier, cadrer, gérer et clôturer toutes les activités qui le composent"
+      ],
+      "answers": [true, false, false, false]
+    },
+    {
+      "question_id": 26,
+      "question_prequel": "Un projet prend fin pour toutes ces raisons, sauf une qui est incorrecte, laquelle ?",
+      "feedback": "Référence : 1.2.1",
+      "possibilities": [
+        "Les objectifs du projet ont été atteints.",
+        "Les ressources financières sont épuisées ou ne sont plus disponibles pour le projet",
+        "Les ressources humaines ou matérielles ne sont plus disponibles.",
+        "Un membre de l’équipe projet est en désaccord avec les objectifs du projet"
+      ],
+      "answers": [false, false, false, true]
+    },
+    {
+      "question_id": 27,
+      "question_prequel": "Quelle proposition correspond à cette définition « C’est l’application des connaissances, de compétences, d’outils et de techniques aux activités d’un projet afin d’en satisfaire les exigences » ?",
+      "feedback": "Référence : 1.2.1",
+      "possibilities": [
+        "Le management de la valeur",
+        "L’initialisation d’un projet",
+        "Le management de projet",
+        "La démarche projet"
+      ],
+      "answers": [false, false, true, false]
+    },
+    {
+      "question_id": 28,
+      "question_prequel": "Parmi les propositions suivantes, quelle est celle qui définit la phase ?",
+      "feedback": "Référence : 1.2.4",
+      "possibilities": [
+        "Groupement logique des données d’entrée, des outils et techniques, et des données de sortie du management de projet.",
+        "Domaine identifié du management de projet, défini par ses exigences en matière de connaissance et dont le contenu est décrit en termes de ses processus, ses pratiques, ses données d'entrée et de sortie, ses outils et techniques.",
+        "Ensemble d’activités du projet liées logiquement qui aboutit à l'achèvement  d’un ou de plusieurs livrables",
+        "Série d’activités du projet, depuis son démarrage jusqu’à sa terminaison."
+      ],
+      "answers": [false, false, true, false]
+    },
+    {
+      "question_id": 29,
+      "question_prequel": "Parmi les groupes de processus ci-dessous, quel est l’intrus ?",
+      "feedback": "Référence : 1.2.4.5",
+      "possibilities": [
+        "Groupe de processus d’initialisation",
+        "Groupe de processus de terminaison",
+        "Groupe de processus d’exécution",
+        "Groupe de processus de maîtrise"
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 30,
+      "question_prequel": "Ces domaines de connaissances sont tous très proches mais un seul est correct, lequel ?",
+      "feedback": "Référence : 1.2.4.6",
+      "possibilities": [
+        "La gestion du contenu du projet",
+        "La Référence du contenu du projet",
+        "La gestion du périmètre du projet",
+        "Le management du périmètre du projet"
+      ],
+      "answers": [false, false, true, false]
+    },
+    {
+      "question_id": 31,
+      "question_prequel": "Parmi les affirmations suivantes, toutes sont exactes sauf une, laquelle ?",
+      "feedback": "Tableau 1-4",
+      "possibilities": [
+        "Il existe 5 groupes de processus",
+        "Il existe 10 domaines de connaissance",
+        "Le groupe de processus de clôture comporte 2 processus",
+        "Le groupe de processus d’initialisation comporte 2 processus"
+      ],
+      "answers": [false, false, true, false]
+    },
+    {
+      "question_id": 32,
+      "question_prequel": "Parmi les propositions ci-dessous, quelle est celle qui correspond à un document business ?",
+      "feedback": "Tableau 1-5",
+      "possibilities": [
+        "Le plan d’assurance qualité",
+        "La charte projet",
+        "Le plan de gestion des bénéfices du projet",
+        "La carte des parties prenantes"
+      ],
+      "answers": [false, false, true, false]
+    },
+    {
+      "question_id": 33,
+      "question_prequel": "Pour chacun des processus du PMBOK, on trouve les éléments suivants sauf un, lequel ?",
+      "feedback": "Référence : Figure 1-6",
+      "possibilities": [
+        "Les données d’entrée",
+        "Les données de sorties",
+        "La liste des activités",
+        "Les outils et techniques"
+      ],
+      "answers": [false, false, true, false]
+    },
+    {
+      "question_id": 34,
+      "question_prequel": "Ciara travaille dans le laboratoire d'une fabrique de produits carnés, où elle est en charge de vérifier la sécurité alimentaire des saucisses. On lui a demandé de mettre en place un système pour prélever des échantillons de saucisses et de les faire analyser en laboratoire. Comme il s'agit d'une entreprise familiale traditionnelle, il n'y a pratiquement aucune connaissance et encore moins expérience en management de projet. Quel est le principal défi en matière de management de projet que Clara doit relever ?",
+      "feedback": "La première préoccupation de Clara devrait être la clarté de son rôle de cheffe de projet, car le fait de ne pas avoir un statut clair nuira grandement à son efficacité.  Référence   3.2",
+      "possibilities": [
+        "Comme il s’agit d'une entreprise familiale, la direction est principalement menée par des réunions et des interactions en dehors des heures de travail.",
+        "Son rôle de chef de projet n'est ni explicite, ni soutenu par la direction. Elle est simplement censée faire le travail assigné ",
+        "Elle n'a pas d'accès à l'information comptable de l'entreprise, donc elle ne sait pas quel montant est disponible pour le projet ",
+        "Comme elle est très ouverte, elle risque fort de voir son temps gaspillé en bavardant avec nombre de ses collègues, ce qui va ralentir la mise en œuvre du projet."
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 35,
+      "question_prequel": "Michel travaille comme responsable marketing régional au sein d'une multinationale spécialisée dans les additifs chimiques pour l'alimentation animale. Son manager souhaite qu'il introduise une nouvelle gamme pour chiens et qu'il augmente ses ventes de plusieurs dizaines de millions par an. Il n'est pas sûr qu'il s'agisse d'un véritable projet. Quelle description correspond le mieux à la situation ?",
+      "feedback": "Il s'agit ici de séparer le projet (lancement de la nouvelle gamme de produits) et de son développement (amélioration du produit existant): le plus probable est que cette demande a trait à l'opérationnel, car aucun objectif spécifique n'a été mentionné.  Référence 1.2",
+      "possibilities": [
+        " Comme Michel n'est pas vraiment chef de projet, il se contentera de gérer ce développement sur une base ad hoc, sans définir de résultats précis à l'avance.",
+        "Bien qu'aucun objectif de vente ni aucune date pour y parvenir n'ont été précisément signifiés, ce projet potentiel se poursuivra jusqu'à ce que des ventes importantes du produit soient réalisées.",
+        "Ce produit est similaire aux précédents, donc son introduction peut être mieux réalisée en copiant ce qui a été fait la dernière fois.",
+        "Le « produit, service ou résultat unique » de cette exigence est le transfert à la production du nouvel additif alimentaire pour chiens en vue de satisfaire une demande du marché."
+      ],
+      "answers": [false, false, false, true]
+    },
+    {
+      "question_id": 36,
+      "question_prequel": "Petra dirige un groupe de chefs de projet dans une entreprise de grande distribution, qui a connu une croissance rapide grâce à des prises de contrôle agressives. Certains craignent que le personnel qui s'est joint à l'entreprise par l'intermédiaire de différentes organisations antérieures ne s'écarte des objectifs déclarés de l'entreprise. Que devrait faire Petra?",
+      "feedback": "Le problème ici est d'aligner les objectifs de l'entreprise, donc les autres options sont moins bien ciblées.  Référence : Sec. 2.4.2.2",
+      "possibilities": [
+        "Elle devrait lister les projets et interroger les chefs de projet sur leurs objectifs documentés et sur la manière dont ils correspondent aux objectifs de l’entreprise.",
+        "Il lui faut lire les descriptions des différents projets que le journal interne produit. Malheureusement, certaines des nouvelles unités d'affaires (qui ont été reprises) ne sont pas encore intégrées, donc il ne faut pas en tenir compte.",
+        "En fait, elle estime que les inquiétudes sont infondées et ne valent pas la peine d'être approfondies.",
+        "Le plus simple est qu'elle mette sur pied une réunion des chefs de projet pour discuter des projets en cours et des problèmes de personnel."
+      ],
+      "answers": [true, false, false, false]
+    },
+    {
+      "question_id": 37,
+      "question_prequel": "Vous êtes l'un des propriétaires d'une start-up qui conçoit des applications pour tracer des véhicules, de sorte que les garages peuvent suivre et conseiller leurs clients, par exemple quand un service est nécessaire. Maintenant que vous avez réussi à obtenir vos premiers financements, le personnel de l'entreprise devrait passer rapidement de 4 à près de 50 personnes. Pour vous assurer que l'entreprise peut gérer l'énorme augmentation de l'activité, vous décidez d'en apprendre davantage sur les questions les plus importantes de la croissance organisationnelle. Quels sont-ils ?",
+      "feedback": "Lorsqu'une entreprise est de très petite taille, elle s'appuie largement sur des méthodes informelles pour tout gérer. Cette méthode de gestion peut de moins en moins s'appliquer au fur et à mesure que l'équipe grandit, et il faut bien prendre conscience de la nécessité de passer à un niveau plus élevé de formalisme.  Référence : Sec. 2.4",
+      "possibilities": [
+        "Les systèmes informatiques pour soutenir les équipes virtuelles, car il n'y aura pas assez d'espace de bureau pour tout le monde ",
+        "Les systèmes de soutien à la gestion, à la gouvernance et aux structures ",
+        "L'expérience de mes pairs dans d'autres start-ups en matière d'investissement ",
+        "La solution du cloud pour le fonctionnement quotidien de l'entreprise."
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 38,
+      "question_prequel": "David travaille comme planificateur réseau pour un opérateur de téléphonie mobile. Son projet actuel est d'identifier et de combler toutes les lacunes en matière de réception radio pour au moins 99 % de la population. Pour ce faire, lequel des éléments suivants lui serait le plus utile ?",
+      "feedback": "David a particulièrement besoin d'informations topographiques, et celles-ci sont très probablement disponibles sur des cartes de haute précision. Référence : Sec. 2.2.1",
+      "possibilities": [
+        "Une carte ferroviaire du pays",
+        "Une carte touristique du pays montrant l'emplacement des principales villes et autoroutes ",
+        "Des cartes numériques de haute précision qui ont été initialement prévues pour l'armée, mais qui sont maintenant disponibles pour le grand public sur Internet",
+        "Une carte politique du pays montrant les circonscriptions électorales"
+      ],
+      "answers": [false, false, true, false]
+    },
+    {
+      "question_id": 39,
+      "question_prequel": "Le père de Jack a fondé une société d'ingénierie locale il y a plusieurs années. Aujourd'hui, il planifie sa retraite et vous êtes pressenti pour reprendre la direction de l'entreprise, même si votre parcours professionnel se limite à des études d'ingénieur et à la gestion de l'atelier qui livre chaque commande client sur la base d'un projet. Dans le cadre du plan de succession, vous décidez que vous avez besoin de développer vos compétences. Dans quel domaine en priorité ?",
+      "feedback": "Il s'agit ici d'une question de priorité; si les questions stratégiques ne sont pas maîtrisées, tout le reste risque d'en pâtir. Référence : Sec. 3.4",
+      "possibilities": [
+        "Comptabilité pour parler le même langage que le comptable",
+        "Gestion stratégique et commerciale, car je serai responsable du succès pérenne de toute l'entreprise ",
+        "Gestion des ressources humaines car le succès de toute l’entreprise est essentiellement tributaire de ses collaborateurs",
+        "Maîtrise du mandarin car je suis persuadé que l’avenir c’est l’Asie et que l’entreprise risque de ne pas survivre si elle dépend entièrement des marchés locaux."
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 40,
+      "question_prequel": "Vous travaillez depuis plusieurs années dans l'industrie textile. Plus récemment, vous avez été responsable de projets de modernisation technique dans des usines de tissage. Comme vous avez acquis de l'expérience, vous aimeriez commencer à partager vos connaissances. Que pouvez-vous décider de faire en ce sens?",
+      "feedback": "Le partage ciblé de l'expérience peut faire partie des responsabilités d'un chef de projet. Les autres options sont moins pertinentes pour la situation. Référence : Sec. 3.3.5",
+      "possibilities": [
+        "Créer un blog plein d'esprit sur les tribulations du travailleur industriel",
+        "Présenter à ma communauté locale une exposition de photos des endroits que j'ai visités dans le monde entier en tant que chef de projet ",
+        "Offrir de faire visiter la ville aux visiteurs parallèlement à la réunion mensuelle de département qui a lieu à mon lieu de travail ",
+        "Chercher un poste de professeur pour enseigner la gestion de projet à la haute école technique locale"
+      ],
+      "answers": [false, false, false, true]
+    },
+    {
+      "question_id": 41,
+      "question_prequel": "Vous travaillez dans le département informatique d'une compagnie d'assurance. Parce qu'elle a perdu des parts de marché, la direction générale est désireuse de lancer des produits 'tueurs', qui vont dominer le secteur. Par conséquent, les objectifs, la durée de livraison et les ressources de votre nouveau projet ont été annoncés avant même que le périmètre ait été précisé. Quelles sont vraisemblablement vos sphères d'influence les plus importantes ?",
+      "feedback": "Les sphères d'influence importantes sont probablement celles avec lesquelles vous entretenez des relations solides et qui peuvent elles-mêmes soutenir directement votre situation.  Référence : Sec. 3.3",
+      "possibilities": [
+        "L’organisation du projet et la structure de l’entreprise",
+        "Les organisations professionnelles IT",
+        "Les universités qui fournissent des spécialistes IT au secteur de l’assurance",
+        "Le secteur de l’assurance"
+      ],
+      "answers": [true, false, false, false]
+    },
+    {
+      "question_id": 42,
+      "question_prequel": "Un de vos collègues travaille pour une entreprise prospère et établie de longue date qui achète ·et vend du coton. Cette entreprise a réussi avant que le management de projet ne devienne à la mode et ses dirigeant sont persuadés qu'ils n'en ont pas plus besoin maintenant qu'auparavant. Il n'en reste pas moins que votre collègue a été prié d'améliorer les statistiques concernant le gaspillage et sollicite l'autorisation du conseil d'administration. Que devrait-il faire?",
+      "feedback": "Votre collègue reconnaît que la culture de l'organisation est susceptible de ne pas appuyer des efforts particuliers pour convaincre la direction d'ajuster son mode de fonctionnement.  Référence : Sec. 2.2 ",
+      "possibilities": [
+        "Puisque les rouages de la direction tournent lentement, il va présenter son projet de façon informelle lors de la prochaine séance de direction",
+        "Il devrait donner suffisamment d'informations dans sa présentation sur la gestion de projet pour que sa proposition soit acceptée par son employeur plutôt conservateur",
+        "Il lui faut simplement décrire les objectifs de son projet sans justification particulière : la société existe depuis si longtemps qu'il y a peu de chance d'influencer la culture de l'entreprise.",
+        "Il ne perd pas de temps à préparer une présentation personnalisée, car l'entreprise est tellement ancrée dans ses habitudes que sa contribution est peu susceptible d'avoir un impact notable."
+      ],
+      "answers": [false, true, false, false]
+    }
+  ],
+  "answersList": [
+    2,
+    3,
+    4,
+    1,
+    4,
+    3,
+    2,
+    1,
+    2,
+    4,
+    2,
+    2,
+    4,
+    2,
+    4,
+    4,
+    2,
+    2,
+    1,
+    4,
+    2,
+    4,
+    2,
+    1,
+    1,
+    4,
+    3,
+    3,
+    2,
+    3,
+    3,
+    3,
+    3,
+    2,
+    4,
+    1,
+    2,
+    3,
+    2,
+    4,
+    1,
+    2
+  ],
+  "configPost": {
+    "quiz_title": "Quiz Post-présentiel du chapitre",
+    "quiz_title2": "1-Introduction",
+    "quiz_id": 101,
+    "chronoButton": false,
+    "pauseButton": false,
+    "setShuffle": "true",
+    "showResultConfig": false,
+    "passScore": 85,
+    "quiz_n_questions": 20,
+    "quiz_n_questionsMax": 42,
+    "answers_file_name": "answersdemo14",
+    "question_file_name": "questiondemo14",
+    "quiz_time": 60,
+    "SubLines": [
+      "Vous venez de terminer le J2 du Parcours de Préparation à la certification PMP®",
+      "Après cette seconde journée de formation en présentiel, il est important que vous puissiez valider vos connaissances sur le chapitre « Introduction »  du parcours à travers ce quiz de 20 questions sur ce chapitre, sans limite de temps.",
+      "Vous pourrez refaire ce test autant de fois que vous le désirez. Il est important que vous puisez avoir au moins 17 bonnes réponses sur les 20 questions posées"
+    ]
+  },
+  "configPre": {
+    "chronoButton": false,
+    "quiz_time": 60,
+    "setShuffle": true,
+    "passScore": 85,
+    "showResultConfig": true,
+    "quiz_title": "Quiz Pré-présentiel du chapitre",
+    "quiz_title2": "1-Introduction",
+    "quiz_id": 1,
+    "quiz_n_questions": 10,
+    "quiz_n_questionsMax": 33,
+    "answers_file_name": "answers_prep_chap1_vf",
+    "question_file_name": "question_prep_chap1_vf",
+    "SubLines": [
+      "Vous venez de terminer le e-learning du chapitre « Introduction » du Parcours de Préparation à la certification PMP® ",
+      "Avant d’assister à votre première journée de formation en présentiel, il est important que vous cherchiez à tester vos connaissances à travers ce Quizz de 10 questions sur ce chapitre, sans limite de temps. ",
+      "Vous pourrez refaire ce test autant de fois que vous le désirez. ",
+      "Bon quizz"
+    ]
+  },
+  "config": {
+    "shuffledAnswers": true,
+    "quiz_title": "Quiz Post-présentiel du chapitre",
+    "quiz_title2": "1-Introduction",
+    "quiz_id": 101,
+    "chronoButton": false,
+    "pauseButton": false,
+    "setShuffle": "true",
+    "showResultConfig": false,
+    "passScore": 85,
+    "quiz_n_questions": 20,
+    "quiz_n_questionsMax": 42,
+    "answers_file_name": "answersdemo14",
+    "question_file_name": "questiondemo14",
+    "quiz_time": 60,
+    "SubLines": [
+      "Vous venez de terminer le J2 du Parcours de Préparation à la certification PMP®",
+      "Après cette seconde journée de formation en présentiel, il est important que vous puissiez valider vos connaissances sur le chapitre « Introduction »  du parcours à travers ce quiz de 20 questions sur ce chapitre, sans limite de temps.",
+      "Vous pourrez refaire ce test autant de fois que vous le désirez. Il est important que vous puisez avoir au moins 17 bonnes réponses sur les 20 questions posées"
+    ]
+  }
+}

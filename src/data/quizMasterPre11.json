@@ -1,0 +1,343 @@
+{
+  "quiz1b": [],
+  "quizQuestionList": [
+    {
+      "question_id": 1,
+      "question_prequel": "Le plan de management des risques décrit :",
+      "feedback": "PMBOK® Guide, Figure 10-2, page 401",
+      "possibilities": [
+        "Des actions spécifiques pour mettre en place les stratégies de traitement des risques",
+        "Les risques résiduels et secondaires",
+        "Comment conduire les activités de gestion des risques d’un projet",
+        "Les montants de réserve nécessaires en cas d’aléas"
+      ],
+      "answers": [false, false, true, false]
+    },
+    {
+      "question_id": 2,
+      "question_prequel": "Laquelle de ces informations concernant l’identification des risques est fausse ?",
+      "feedback": "PMBOK® Guide, Figure 11-6, pages 409 & 411. Identifier les risques implique très largement au-delà de l’équipe projet.",
+      "possibilities": [
+        "Il s’agit d’un processus itératif",
+        "Elle n’implique toujours que l’équipe de projet",
+        "Des personnes non impliquées dans le projet peuvent y participer",
+        "Les réponses aux risques sont souvent créées dès l’identification des risques"
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 3,
+      "question_prequel": "L’analyse qualitative des risques n’inclut pas :",
+      "feedback": "PMBOK® Guide, Figure 11-8, pages 419, 422 à 426. Estimation à trois points est utilisée pour estimer la durée ou les coûts.",
+      "possibilities": [
+        "Probabilité et impact des risques",
+        "Catégorisation des risques",
+        "Évaluation de la qualité des données relatives aux risques",
+        "Estimations à trois points"
+      ],
+      "answers": [false, false, false, true]
+    },
+    {
+      "question_id": 4,
+      "question_prequel": "En tant que responsable de projet pour Euro-man Extraterrestrial Manager Corp., vous évaluez les risques de projets spécifiques visant à fournir des cérémonies de mariage dans l’espace. Vous souhaitez analyser numériquement la probabilité et les conséquences des risques spécifiques à ces projets. L’une des techniques suivantes ne fait pas partie des techniques fondamentales à votre disposition :",
+      "feedback": "PMBOK® Guide, Figure 11-11, pages 427 et 433, section 11.4.2.5. Analyse quantitative des risques, outils et techniques",
+      "possibilities": [
+        "Simulations Monte Carlo ",
+        "Analyse par arbre de décision ",
+        "Entretiens",
+        "Test des hypothèses du projet"
+      ],
+      "answers": [false, false, false, true]
+    },
+    {
+      "question_id": 5,
+      "question_prequel": "En tant que responsable de projet d’une organisation fournissant de l’aide d’urgence à des zones sinistrées, vous avez évalué le recours à un nouveau fournisseur pour répondre à vos besoins en transport vers et à partir des zones concernées. Cette entreprise propose des équipements très récents et des tarifs légèrement meilleurs. Vous décidez cependant qu’en raison de son manque d’expérience dans votre domaine spécifique, vous choisirez une entreprise expérimentée. Quelle est la meilleure description de cette stratégie ? ",
+      "feedback": "PMBOK® Guide, pages 442 et 443, section 11.5.2.4. Stratégies pour les menaces",
+      "possibilities": [
+        "Acceptation active ",
+        "Acceptation passive",
+        "Transfert",
+        "Atténuer"
+      ],
+      "answers": [false, false, false, true]
+    },
+    {
+      "question_id": 6,
+      "question_prequel": "Si un projet a 50 % de chances de perdre 100 000 € et 50 % de chances de gagner 200 000 €, quelle est sa valeur monétaire prévue ?",
+      "feedback": "PMBOK® Guide, Figure 11-15, pages 435. Analyse par arbre de décision : EMV = - 100 000 x 0,5 + 200 000 x 0,5 = 50 000",
+      "possibilities": [
+        "Seuil de rentabilité",
+        "50 000 € de bénéfice",
+        "200 000 € de bénéfice",
+        "150 000 € de bénéfice"
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 7,
+      "question_prequel": "Vous êtes chef de projet sur un projet dont le but est de créer un robot capable de réaliser des procédures chirurgicales spécifiques sans intervention humaine. Vous travaillez à préciser les définitions générales de probabilité et d’impacts de votre projet. Vous êtes impliqué dans le processus appelé :",
+      "feedback": "PMBOK® Guide, pages 395 et 396. Définitions générales",
+      "possibilities": [
+        "Analyse qualitative des risques",
+        "Planifier le management des risques",
+        "Analyse quantitative des risques",
+        "Identifier les risques"
+      ],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 8,
+      "question_prequel": "Parmi les énoncés suivants, lequel n’est pas vrai ?",
+      "feedback": "PMBOK® Guide, Chapitre 11 en général",
+      "possibilities": [
+        "L’attitude des organisations par rapport aux risques affecte la précision de la perception du risque",
+        "La communication sur le risque et sa gestion devrait être ouverte et honnête",
+        "Les risques qui représentent une menace significative pour le succès du projet ne sont pas acceptables",
+        "Les risques inconnus sont gérés à travers une allocation des provisions pour imprévus"
+      ],
+      "answers": [false, false, true, false]
+    },
+    {
+      "question_id": 9,
+      "question_prequel": "Vous effectuez une analyse quantitative des risques. Vous pouvez utiliser toutes les techniques suivantes, sauf :",
+      "feedback": "PMBOK® Guide, Figure 11-11, pages 428 et 431. Section 11.4.2.",
+      "possibilities": [
+        "Planification des imprévus",
+        "VMA ou EVM",
+        "Modélisation et simulation ",
+        "Analyse de sensibilité"
+      ],
+      "answers": [true, false, false, false]
+    },
+    {
+      "question_id": 10,
+      "question_prequel": "Former un partenariat pour gérer des risques particuliers est un exemple de quelle stratégie ?",
+      "feedback": "PMBOK® Guide, pages 444, section 11.5.2.5. Stratégies pour les opportunités. ",
+      "possibilities": ["Transférer", "Éviter", "Partager", "Accepter"],
+      "answers": [false, false, true, false]
+    },
+    {
+      "question_id": 11,
+      "question_prequel": "Vous managez un projet de construction d’une usine de traitement des eaux. Vous déterminez que la probabilité de tenir les délais est de 80 % et que la probabilité de tenir le budget est de 70 %. Quelle est la probabilité d’être à la fois dans le budget et dans les délais ?",
+      "feedback": "80% x 70% = 56% ; Analyse Qualitative des risques ",
+      "possibilities": ["56 % ", "80 %", "75 %", "70 %"],
+      "answers": [true, false, false, false]
+    },
+    {
+      "question_id": 12,
+      "question_prequel": "Vous venez de terminer d’identifier les risques pour votre projet. La prochaine étape à faire immédiatement est :",
+      "feedback": "PMBOK® Guide, pages 395, Figure 11-1. Section 11.2.3.1 et 11.3.1.2 « Risques identifiés » est une donnée de sortie du processus « Identifier les risques » et une donnée d’entrée de « Analyse qualitative des risques ». La prochaine étape à faire IMMEDIATEMENT après est donc A",
+      "possibilities": [
+        "Analyse qualitative des risques",
+        "Analyse quantitative des risques",
+        "Planifier la réponse aux risques",
+        "Tout ce qui précède "
+      ],
+      "answers": [true, false, false, false]
+    },
+    {
+      "question_id": 13,
+      "question_prequel": "Parmi les techniques de planification suivantes, quelle est celle qui intègre une forme d’évaluation des risques ?",
+      "feedback": "La méthode PERT intègre une formé d’évaluation des risques grâce à l’estimation en trois points. ",
+      "possibilities": [
+        "La méthode PERT",
+        "La méthode des antécédents (PDM)",
+        "La méthode de diagramme fléché (ADM)",
+        "La méthode du chemin critique (CMP)"
+      ],
+      "answers": [true, false, false, false]
+    },
+    {
+      "question_id": 14,
+      "question_prequel": "Souscrire une assurance est une stratégie aux risques de quel type ?",
+      "feedback": "Une stratégie de transfert permet la prise en charge de l’impact financier par un tiers. C’est le cas de la souscription d’une assurance. Référence : 11.5.2.1 Stratégies pour les menaces",
+      "possibilities": ["Evitement", "Couverture", "Acceptation", "Transfert"],
+      "answers": [false, false, false, true]
+    },
+    {
+      "question_id": 15,
+      "question_prequel": "Lequel de ces outils est utilisé pour établir le plan de gestion des risques ?",
+      "feedback": "Référence : 11.1.2.3 Réunions",
+      "possibilities": [
+        "Liste rapide",
+        "Collecte des données",
+        "Réunion de planification des risques",
+        "Diagramme d’influence"
+      ],
+      "answers": [false, false, true, false]
+    },
+    {
+      "question_id": 16,
+      "question_prequel": "Vous souhaitez réaliser une acceptation active des risques, que devez-vous faire ?",
+      "feedback": "La stratégie d’acceptation active du risque consiste le plus souvent à constituer une provision pour aléas pour dégager des ressources supplémentaires, du temps ou des moyens pour traiter les risques. Référence : 11.5.2.4 Stratégies pour les menaces",
+      "possibilities": [
+        "Créer une provision pour aléas en ressources, en moyens financiers et en temps.",
+        "Définir un plan d'action pour minimiser l'impact si les risques arrivés.",
+        "Définir un plan d'action pour minimiser la probabilité d’occurrence des risques identifiés.",
+        "Allouer des ressources supplémentaires au projet pour l'accélérer. Si le risque arrive l'avance permet d'atténuer l'impact du risque."
+      ],
+      "answers": [true, false, false, false]
+    },
+    {
+      "question_id": 17,
+      "question_prequel": "Dans votre projet, vous gérez les risques connus en exécutant le plan de réponse aux risques établi dans le processus planifier la réponse aux risques. Qu’utilisez-vous alors quand vous rencontrez un risque inconnu ?",
+      "feedback": "En termes de coût les risques inconnus sont gérés avec la réserve pour imprévus. Les autres réponses sont validées en termes de comportement face aux risques qui surviennent mais sans plus d’information, il est difficile de faire un meilleur choix. Référence : 6.4.2.6 Analyse des données",
+      "possibilities": [
+        "Réserve pour imprévus",
+        "Transfert du risque",
+        "Atténuation du risque",
+        "Acceptation du risque"
+      ],
+      "answers": [true, false, false, false]
+    },
+    {
+      "question_id": 18,
+      "question_prequel": "Parmi les risques cités, relatifs à l’échéancier du projet, de manière usuelle lequel a la priorité la plus élevée ?",
+      "feedback": "Le score du risque est calculé en multipliant les estimations de probabilité et l’impact. Référence : 11.3.2.3 Analyse des données",
+      "possibilities": [
+        "Un risque avec une probabilité de 0,5 et un impact relatif de 0,4",
+        "Un risque avec une probabilité de 0,9 et un impact relatif de 0,05",
+        "Un risque avec une probabilité de 0,3 et un impact relatif de 0,1",
+        "Un risque avec une probabilité de 0,01 et un impact relatif de 0,9"
+      ],
+      "answers": [true, false, false, false]
+    },
+    {
+      "question_id": 19,
+      "question_prequel": "Un risque majeur est identifié. S’il se produisait, il mettrait à mal le projet. On souscrit donc à une assurance pour gérer ce risque. Quelle technique de gestion de risque est appliquée ?",
+      "feedback": "Référence : 11.5.2.4 Stratégies pour les menaces",
+      "possibilities": ["Escalader", "Eviter", "Transférer", "Atténuer"],
+      "answers": [false, false, true, false]
+    },
+    {
+      "question_id": 20,
+      "question_prequel": "Laquelle de ces données de sortie appartient au processus Maîtriser les risques ?",
+      "feedback": "Référence : 11.7 Maîtriser les risques",
+      "possibilities": [
+        "Demandes de changement",
+        "Données de performance d'exécution",
+        "Registre des parties prenantes",
+        "Représentation de l'incertitude"
+      ],
+      "answers": [true, false, false, false]
+    },
+    {
+      "question_id": 21,
+      "question_prequel": "Vous êtes le chef de projet d’un projet de construction d’un bâtiment. Selon l’échéancier, les poutres en béton doivent être coulées aujourd’hui mais les conditions climatiques ne sont pas bonnes pour être conforme à la qualité requise. Vous décidez donc de reporter cette tâche, ceci n’impacte pas l’échéancier. A quel type de réponse au risque correspond cette attitude ?",
+      "feedback": "On parle ici du risque de qualité sur la conception des poutres. Afin d’éviter ce risque, la tâche est retardée. Le risque de mauvaise qualité de la poutre est donc évité. Référence : 11.5.2.4 Stratégies pour les menaces",
+      "possibilities": ["Transfert", "Evitement", "Acceptation", "Atténuation"],
+      "answers": [false, true, false, false]
+    },
+    {
+      "question_id": 22,
+      "question_prequel": "Qu’est-ce qu’entraîne l’acceptation passive d’un risque ?",
+      "feedback": "L’acceptation passive d’un risque n’entraîne aucune action hormis la mise à jour de la documentation de la stratégie dans le plan de management du projet pour garantir la revue périodique de la menace. Référence : 11.5.2.4 Stratégies pour les menaces",
+      "possibilities": [
+        "Un transfert ou une atténuation du risque",
+        "La passation d'une provision pour imprévus",
+        "Une modification du plan de management de projet",
+        "La passation d'une provision pour aléa"
+      ],
+      "answers": [false, false, true, false]
+    },
+    {
+      "question_id": 23,
+      "question_prequel": "Pour quel type de risque la réserve pour imprévus est-elle utilisée ?",
+      "feedback": "La réserve pour aléas concerne les risques identifiés et acceptés (Acceptation active des risques). La réserve pour imprévus concerne tous les risques qui ne peuvent pas et qui ne sont pas identifiés. Référence : 6.4.2.6 Analyse des données",
+      "possibilities": [
+        "Les risques qui ne sont pas identifiés au démarrage du projet mais sont connus quand ils se matérialisent",
+        "Les risques qui ne peuvent pas être connus",
+        "Les risques internes",
+        "Les risques qui sont identifiés"
+      ],
+      "answers": [false, true, false, false]
+    }
+  ],
+  "answersList": [
+    3,
+    2,
+    4,
+    4,
+    4,
+    2,
+    2,
+    3,
+    1,
+    3,
+    1,
+    1,
+    1,
+    4,
+    3,
+    1,
+    1,
+    1,
+    3,
+    1,
+    2,
+    3,
+    2
+  ],
+  "configPre": {
+    "chronoButton": false,
+    "quiz_time": 60,
+    "setShuffle": true,
+    "passScore": 85,
+    "showResultConfig": true,
+    "quiz_title": "Quiz Pré-présentiel du chapitre",
+    "quiz_title2": "11-Gestion des risques du projet",
+    "quiz_id": 11,
+    "quiz_n_questions": 15,
+    "quiz_n_questionsMax": 23,
+    "answers_file_name": "answers_prep_chap11_v2",
+    "question_file_name": "question_prep_chap11_v2",
+    "SubLines": [
+      "Vous venez de terminer le e-learning du chapitre « Gestion des risques du projet » du Parcours de Préparation à la certification PMP®",
+      "Avant d’assister à votre prochaine journée de formation en présentiel, il est important que vous cherchiez à tester vos connaissances à travers ce quiz de 10 questions sur ce chapitre, sans limite de temps. ",
+      "Vous pourrez refaire ce test autant de fois que vous le désirez. ",
+      "Bon quiz !"
+    ]
+  },
+  "configPost": {
+    "chronoButton": false,
+    "pauseButton": false,
+    "quiz_time": 60,
+    "setShuffle": true,
+    "passScore": 85,
+    "showResultConfig": true,
+    "quiz_title": "Quiz Post-présentiel du chapitre",
+    "quiz_title2": "11-Gestion des risques du projet",
+    "quiz_id": 111,
+    "quiz_n_questions": 30,
+    "quiz_n_questionsMax": 23,
+    "answers_file_name": "answers_post_chap11_v2",
+    "question_file_name": "question_post_chap11_v2",
+    "SubLines": [
+      "Vous venez de terminer le J6 du Parcours de Préparation à la certification PMP®",
+      "Après cette  sixième journée de formation en présentiel, il est important que vous puissiez valider vos connaissances sur le chapitre « Gestion des risques du projet » à travers ce quiz de 20 questions sur ce chapitre, sans limite de temps.",
+      "Vous pourrez refaire ce test autant de fois que vous le désirez. Il est important que vous puissiez avoir au moins 17 bonnes réponses sur les 20 questions posées.",
+      "Les boutons de navigation « Questions marquées », « Questions non répondues » et « Liste des questions » vous permettent de vous déplacer au sein de ce quiz.",
+      "Bon quiz !"
+    ]
+  },
+  "config": {
+    "chronoButton": false,
+    "quiz_time": 60,
+    "setShuffle": true,
+    "passScore": 85,
+    "showResultConfig": true,
+    "quiz_title": "Quiz Pré-présentiel du chapitre",
+    "quiz_title2": "11-Gestion des risques du projet",
+    "quiz_id": 11,
+    "quiz_n_questions": 15,
+    "quiz_n_questionsMax": 23,
+    "answers_file_name": "answers_prep_chap11_v2",
+    "question_file_name": "question_prep_chap11_v2",
+    "SubLines": [
+      "Vous venez de terminer le e-learning du chapitre « Gestion des risques du projet » du Parcours de Préparation à la certification PMP®",
+      "Avant d’assister à votre prochaine journée de formation en présentiel, il est important que vous cherchiez à tester vos connaissances à travers ce quiz de 10 questions sur ce chapitre, sans limite de temps. ",
+      "Vous pourrez refaire ce test autant de fois que vous le désirez. ",
+      "Bon quiz !"
+    ]
+  }
+}
