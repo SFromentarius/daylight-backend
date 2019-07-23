@@ -20,6 +20,8 @@ import Dialog from '@material-ui/core/Dialog';
 import DialogActions from '@material-ui/core/DialogActions';
 import DialogTitle from '@material-ui/core/DialogTitle';
 import Button from '@material-ui/core/Button';
+import CircularProgress from '@material-ui/core/CircularProgress';
+import Grid from '@material-ui/core/Grid';
 
 import EditIcon from '@material-ui/icons/Edit';
 import AddCircle from '@material-ui/icons/AddCircle';
@@ -38,7 +40,7 @@ export default class HomeList extends React.Component {
   };
 
   getLink(quiz) {
-    if (quiz.config.quiz_id.toString().length === 1 || 2) {
+    if (quiz.config.quiz_id.toString().length === 1 || 2) {
       return (
         'https://preprod.daylight-back.themoocagency.com/daylightQuizEditor/quizChapter/pre/chap' +
         `${quiz.config.quiz_id}`
@@ -346,6 +348,11 @@ export default class HomeList extends React.Component {
             isQuestionList ? 'Liste des sources de questions' : 'Liste des quiz'
           }
         >
+          {(this.props.quizSpinner || this.props.questionsSpinner) && (
+            <Grid container justify='center'>
+              <CircularProgress />
+            </Grid>
+          )}
           {this.props.data &&
             this.props.data.map((data, index) => {
               const title = isQuestionList

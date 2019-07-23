@@ -35,10 +35,17 @@ class Accueil extends React.Component {
     quizDataSend: false,
     questionsDataSend: false,
     actualQuestionsSource: null,
-    openQuestionsConfig: false
+    openQuestionsConfig: false,
+    quizSpinner: false,
+    questionsSpinner: false
   };
 
   handleChange = (event, newValue) => {
+    if (newValue === 0) {
+      this.updateQuizAll();
+    } else if (newValue === 1) {
+      this.updateQuestionsAll();
+    }
     this.setState({ selectedTab: newValue });
   };
 
@@ -87,7 +94,7 @@ class Accueil extends React.Component {
 
   updateQuizAll = () => {
     this.setState(
-      { quizAll: [] },
+      { quizAll: [], quizSpinner: true },
 
       function() {
         db.collection('quiz')
@@ -96,7 +103,7 @@ class Accueil extends React.Component {
           .then(querySnapshot => {
             querySnapshot.forEach(quiz => {
               const quizAll = this.state.quizAll.concat(quiz.data());
-              this.setState({ quizAll });
+              this.setState({ quizAll, quizSpinner: false });
             });
           });
       }
@@ -105,7 +112,7 @@ class Accueil extends React.Component {
 
   updateQuestionsAll = () => {
     this.setState(
-      { questionsAll: [] },
+      { questionsAll: [], questionsSpinner: true },
 
       function() {
         db.collection('questions')
@@ -116,7 +123,7 @@ class Accueil extends React.Component {
               const questionsAll = this.state.questionsAll.concat(
                 question.data()
               );
-              this.setState({ questionsAll });
+              this.setState({ questionsAll, questionsSpinner: false });
             });
           });
       }
@@ -124,8 +131,13 @@ class Accueil extends React.Component {
   };
 
   componentDidMount() {
-    this.updateQuizAll();
-    this.updateQuestionsAll();
+    if (this.state.selectedTab === 0) {
+      this.updateQuizAll();
+    } else if (this.state.selectedTab === 1) {
+      this.updateQuestionsAll();
+    }
+    // this.updateQuizAll();
+    // this.updateQuestionsAll();
   }
 
   render() {
@@ -204,6 +216,7 @@ class Accueil extends React.Component {
               //questionsAll={this.state.questionsAll}
               isQuestionList={false}
               updateQuizAll={this.updateQuizAll} //todo, in child component
+              quizSpinner={this.state.quizSpinner}
             />
           </Container>
         )}
@@ -215,6 +228,8 @@ class Accueil extends React.Component {
               //questionsAll={this.state.questionsAll}
               isQuestionList={true}
               updateQuestionsAll={this.updateQuestionsAll}
+              length={this.state.questionsAll.length}
+              questionsSpinner={this.state.questionsSpinner}
             />
           </Container>
         )}
